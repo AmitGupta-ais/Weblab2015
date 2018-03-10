@@ -87,6 +87,7 @@
                                 <asp:TextBox ID="txt_pswd2" runat="server" class="form-control" placeholder="Repeat New Password" TextMode="Password"
                                     ></asp:TextBox>
                             </div>
+                            <!-- Change this to a button or input when using this as a form -->
                             <a href="#" class="btn btn-lg btn-success btn-block" onclick="document.getElementById('BtnLogin').click();">
                                 Change Password</a>
                         </fieldset>
