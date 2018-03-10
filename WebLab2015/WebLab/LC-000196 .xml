@@ -1,0 +1,671 @@
+<?xml version="1.0" standalone="yes"?>
+<ReportData xmlns="http://tempuri.org/ReportData.xsd">
+  <Report_x0020_Table>
+    <booksno>24</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_132    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>24</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>SERUM URIC ACID</tname>
+    <units>mg%</units>
+    <NORANGE>(3.5-7.2)</NORANGE>
+    <LBOUND>3.5</LBOUND>
+    <UBOUND>7.2</UBOUND>
+    <tval>15</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType />
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>26</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_124    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>26</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>TOTAL PROTEIN</tname>
+    <units>gm/dl</units>
+    <NORANGE>(6.6-8.3)</NORANGE>
+    <LBOUND>6.6</LBOUND>
+    <UBOUND>8.3</UBOUND>
+    <tval>15</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>28</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_125    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>28</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>     ALBUMIN</tname>
+    <units>gm/dl</units>
+    <NORANGE>(3.4-4.8)</NORANGE>
+    <LBOUND>3.4</LBOUND>
+    <UBOUND>4.8</UBOUND>
+    <tval>1</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>29</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_126    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>29</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>     GLOBULIN</tname>
+    <units>gm/dl</units>
+    <NORANGE>(2.3-3.5)</NORANGE>
+    <LBOUND>2.3</LBOUND>
+    <UBOUND>3.5</UBOUND>
+    <tval>1514</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>30</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_127    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>30</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>     A/G RATIO</tname>
+    <units />
+    <NORANGE>(.-.)</NORANGE>
+    <LBOUND>.</LBOUND>
+    <UBOUND>.</UBOUND>
+    <tval>10</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>6</booksno>
+    <hcodepos>2.0BIOCHEMISTRY</hcodepos>
+    <sno>24</sno>
+    <testcode>_130    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>BIOCH</hcode>
+    <hcodesno>2</hcodesno>
+    <HName>BIOCHEMISTRY</HName>
+    <tname>BLOOD UREA NITROGEN (BUN)</tname>
+    <units>mg%</units>
+    <NORANGE>(6.0-20.0)</NORANGE>
+    <LBOUND>6.0</LBOUND>
+    <UBOUND>20.0</UBOUND>
+    <tval>3</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>_130    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>8</booksno>
+    <hcodepos>2.0BIOCHEMISTRY</hcodepos>
+    <sno>25</sno>
+    <testcode>_143    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>BIOCH</hcode>
+    <hcodesno>2</hcodesno>
+    <HName>BIOCHEMISTRY</HName>
+    <tname>CHLORIDE</tname>
+    <units>mmol/L</units>
+    <NORANGE>(98.0-109.0)</NORANGE>
+    <LBOUND>98.0</LBOUND>
+    <UBOUND>109.0</UBOUND>
+    <tval>51</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>_143    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>35</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_143    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>35</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>CHLORIDE</tname>
+    <units>mmol/L</units>
+    <NORANGE>(98.0-109.0)</NORANGE>
+    <LBOUND>98.0</LBOUND>
+    <UBOUND>109.0</UBOUND>
+    <tval>51</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>39</booksno>
+    <hcodepos>18.0KIDNEY FUNCTION TEST (KFT)</hcodepos>
+    <testcode>_136    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>KIFT</hcode>
+    <hcodesno>39</hcodesno>
+    <HName>KIDNEY FUNCTION TEST (KFT)</HName>
+    <tname>INORGANIC PHOSPHORUS</tname>
+    <units>mg/dl</units>
+    <NORANGE>(3.0-4.5)</NORANGE>
+    <LBOUND>3.0</LBOUND>
+    <UBOUND>4.5</UBOUND>
+    <tval>61</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>KIFT    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>4</booksno>
+    <hcodepos>2.0BIOCHEMISTRY</hcodepos>
+    <sno>58</sno>
+    <testcode>APOA    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>BIOCH</hcode>
+    <hcodesno>2</hcodesno>
+    <HName>BIOCHEMISTRY</HName>
+    <tname>APOLIPOPROTEIN A1 (APO A-1)</tname>
+    <units>gm/L</units>
+    <NORANGE>(1.04-2.02)</NORANGE>
+    <LBOUND>1.04</LBOUND>
+    <UBOUND>2.02</UBOUND>
+    <tval>2</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>APOA    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>14</booksno>
+    <hcodepos>2.0BIOCHEMISTRY</hcodepos>
+    <sno>68</sno>
+    <testcode>GCTTS   </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>BIOCH</hcode>
+    <hcodesno>2</hcodesno>
+    <HName>BIOCHEMISTRY</HName>
+    <tname>GCT TWO SAMPLES</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>7</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>GCTTS   </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>12</booksno>
+    <hcodepos>5.0CLINICAL PATHOLOGY</hcodepos>
+    <sno>51</sno>
+    <testcode>TX000028</testcode>
+    <labno>LC-000196 </labno>
+    <hcode>CP</hcode>
+    <hcodesno>5</hcodesno>
+    <HName>CLINICAL PATHOLOGY</HName>
+    <tname>FLUID CHLORIDE</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>6</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TX000028</Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>48</booksno>
+    <hcodepos>44.0PRE OPERATIVE PROFILE</hcodepos>
+    <testcode>TX000001</testcode>
+    <labno>LC-000196 </labno>
+    <hcode>PP</hcode>
+    <hcodesno>48</hcodesno>
+    <HName>PRE OPERATIVE PROFILE</HName>
+    <tname>DIFFERENTIAL LEUCOCYTE COUNT (DLC)</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval />
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>S</TYP>
+    <Bookedunder>PP      </Bookedunder>
+    <PrevType>Sub Heading</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>103</booksno>
+    <hcodepos>1.0HAEMATOLOGY</hcodepos>
+    <sno>41</sno>
+    <testcode>SF      </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>HAEMA</hcode>
+    <hcodesno>1</hcodesno>
+    <HName>HAEMATOLOGY</HName>
+    <tname>SERUM FOLATE</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>15</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>SF      </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>107</booksno>
+    <hcodepos>3.0IMMUNOLOGY</hcodepos>
+    <sno>4</sno>
+    <testcode>_236    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>HORMO</hcode>
+    <hcodesno>3</hcodesno>
+    <HName>IMMUNOLOGY</HName>
+    <tname>TRIODOTHYRONINE (T3)</tname>
+    <units>ngm/dl.</units>
+    <NORANGE>(86-186)</NORANGE>
+    <LBOUND>86</LBOUND>
+    <UBOUND>186</UBOUND>
+    <tval>51</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>Y</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>_236    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>94</booksno>
+    <hcodepos>44.0PRE OPERATIVE PROFILE</hcodepos>
+    <testcode>HIV     </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>PP</hcode>
+    <hcodesno>94</hcodesno>
+    <HName>PRE OPERATIVE PROFILE</HName>
+    <tname>ANTIBODY TEST FOR HIV - I &amp; II</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>1</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>PP      </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>10</booksno>
+    <hcodepos>4.0SEROLOGY</hcodepos>
+    <sno>11</sno>
+    <testcode>DII     </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>SEROL</hcode>
+    <hcodesno>4</hcodesno>
+    <HName>SEROLOGY</HName>
+    <tname>DENGUE IgM &amp; IgG</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>5</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>DII     </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>16</booksno>
+    <hcodepos>4.0SEROLOGY</hcodepos>
+    <sno>20</sno>
+    <testcode>HCV     </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>SEROL</hcode>
+    <hcodesno>4</hcodesno>
+    <HName>SEROLOGY</HName>
+    <tname>HEPATITIS C VIRUS IgG (HCV)</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>8</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>HCV     </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>2</booksno>
+    <hcodepos>4.0SEROLOGY</hcodepos>
+    <sno>48</sno>
+    <testcode>AMM     </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>SEROL</hcode>
+    <hcodesno>4</hcodesno>
+    <HName>SEROLOGY</HName>
+    <tname>AMMONIA</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>1</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>AMM     </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>109</booksno>
+    <hcodepos>4.0SEROLOGY</hcodepos>
+    <sno>51</sno>
+    <testcode>TPHA    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>SEROL</hcode>
+    <hcodesno>4</hcodesno>
+    <HName>SEROLOGY</HName>
+    <tname>TPHA</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>51</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TPHA    </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>92</booksno>
+    <hcodepos>44.0PRE OPERATIVE PROFILE</hcodepos>
+    <testcode>AHCV    </testcode>
+    <labno>LC-000196 </labno>
+    <hcode>PP</hcode>
+    <hcodesno>92</hcodesno>
+    <HName>PRE OPERATIVE PROFILE</HName>
+    <tname>ANTI HCV</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>1</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>PP      </Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>101</booksno>
+    <hcodepos>10.0SPECIAL TEST</hcodepos>
+    <sno>6</sno>
+    <testcode>TX000052</testcode>
+    <labno>LC-000196 </labno>
+    <hcode>ST</hcode>
+    <hcodesno>10</hcodesno>
+    <HName>SPECIAL TEST</HName>
+    <tname>IRON</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>15</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TX000052</Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>105</booksno>
+    <hcodepos>9.0URINE EXAMINATION TEST</hcodepos>
+    <sno>11</sno>
+    <testcode>TX000009</testcode>
+    <labno>LC-000196 </labno>
+    <hcode>UE</hcode>
+    <hcodesno>9</hcodesno>
+    <HName>URINE EXAMINATION TEST</HName>
+    <tname>SPOT URINARY CREATNINE</tname>
+    <units>mgm/dl</units>
+    <NORANGE>(&gt;=20)</NORANGE>
+    <LBOUND />
+    <UBOUND>&gt;=20</UBOUND>
+    <tval>15</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TX000009</Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_Header>
+    <PatName>Mrs. PARUL </PatName>
+    <Age>36 Yrs/F</Age>
+    <Date>16-Feb-2015</Date>
+    <RegnNo>IP01824   </RegnNo>
+    <LabNo>LC-000196 </LabNo>
+    <PatCode>P07186    </PatCode>
+    <ReferBy>Dr. NEETA GARG</ReferBy>
+    <Header />
+    <FooterHeight>0</FooterHeight>
+    <Footer />
+  </Report_Header>
+  <Report_Format>
+    <Abnormal_Red>0</Abnormal_Red>
+    <Abnormal_Green>0</Abnormal_Green>
+    <Abnormal_Blue>0</Abnormal_Blue>
+    <Abnormal_Bold>1</Abnormal_Bold>
+    <Abnormal_UL>1</Abnormal_UL>
+    <Detail_Font>Times New Roman</Detail_Font>
+    <Detail_Size>8</Detail_Size>
+    <Normal_Red>0</Normal_Red>
+    <Normal_Blue>0</Normal_Blue>
+    <Normal_Green>0</Normal_Green>
+    <Normal_Bold>0</Normal_Bold>
+    <TestName_Print>Test Title</TestName_Print>
+    <Headname_Font>Times New Roman</Headname_Font>
+    <Headname_Red>0</Headname_Red>
+    <Headname_Green>0</Headname_Green>
+    <Headname_Blue>0</Headname_Blue>
+    <Headname_Size>9</Headname_Size>
+    <Normal_UL>0</Normal_UL>
+    <Abnormal_Asterik>0</Abnormal_Asterik>
+    <RequireNewPageAfterHead>0</RequireNewPageAfterHead>
+  </Report_Format>
+</ReportData>

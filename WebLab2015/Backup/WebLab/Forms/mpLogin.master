@@ -1,0 +1,40 @@
+<%@ Master Language="C#" AutoEventWireup="true" Inherits="WebLabMaster.Forms_mpLogin"
+    CodeBehind="mpLogin.master.cs" %>
+
+<%@ Register Assembly="AISWebCommon" Namespace="AISWebCommon.AisControls" TagPrefix="AIS" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Login Page</title>
+    <link href="../CSS/bootstrap.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table width="100%">
+        <tr>
+            <td colspan="3" align="center">
+                <asp:Literal ID="Literal1" runat="server"></asp:Literal>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:Literal ID="Literal2" runat="server"></asp:Literal>
+            </td>
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+            <td>
+                <asp:Literal ID="Literal3" runat="server"></asp:Literal>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center">
+                <%--<img src="Logo.bmp" alt="" style="margin-top:100px" />--%>
+                <asp:Literal ID="Literal4" runat="server"></asp:Literal>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

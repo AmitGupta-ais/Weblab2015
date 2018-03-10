@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Hospital - View your report</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700,800' rel='stylesheet' type='text/css'>
+<style>
+body {background:#ffffff; color:#444444; font-size:13px; font-family: 'Open Sans', sans-serif; padding:0; margin:0; }
+.header {background: #fff none repeat scroll 0 0; border-bottom: 1px solid #d1d1d1; margin: 0; padding: 0;}
+.header_inner{ width:970px; margin:auto; padding:15px; }
+.main_body{ padding:22px 22px 0px 22px;  width:960px; margin:auto;}
+.body_blocks_left{width:48%; border:1px solid #D9D9D9; box-sizing:border-box; background:#fff; margin-bottom:22px; margin-right:4%}
+.body_blocks_right{ width:48%;border:1px solid #D9D9D9; box-sizing:border-box; background:#fff; margin-bottom:22px;}
+.fl {float: left;}
+.clear{clear:both; width:100%}
+.cont-box{padding:20px}
+.cont-box img{max-width:100%}
+.footer{color: #666465; font-size:18px; margin:0 auto auto; padding-bottom: 15px; padding-left: 0; width: 963px;}
+
+h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+
+h2 { color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
+
+.subheader { font-size: 26px; font-weight: 300; color: #ffcc66; margin: 0 0 24px; }
+
+label{width: 80px;
+display: inline-block;}
+
+.btns{margin-left:86px;}
+.login_box input{
+width:120px;
+
+}
+
+.login_box{ color:#000; margin-top:5px; } 
+.login_box input{ padding:10px; border:2px solid #7c795d; width:205px; margin-bottom:8px; }
+.login_box .login_btn{background: #7c795d; /* Old browsers */
+background: -moz-linear-gradient(top, #7c795d 0%, #7c795d 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7c795d), color-stop(100%,#7c795d)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* IE10+ */
+background: linear-gradient(to bottom, #7c795d 0%,#7c795d 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01b7e6', endColorstr='#029cdc',GradientType=0 ); /* IE6-9 */ padding:6px 15px; border:0; width: 80px; cursor:pointer; color:#fff;}
+.login_box .login_btn:hover{background: #7c795d; /* Old browsers */
+background: -moz-linear-gradient(top, #7c795d 0%, #7c795d 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7c795d), color-stop(100%,#7c795d)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #7c795d 0%,#7c795d 100%); /* IE10+ */
+background: linear-gradient(to bottom, #7c795d 0%,#7c795d 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c795d', endColorstr='#7c795d',GradientType=0 ); /* IE6-9 */} 
+.login_box .cancel_btn{padding:6px 15px; border:0; width: 80px; cursor:pointer; color:#fff;background: #c42b01; /* Old browsers */
+background: -moz-linear-gradient(top, #c42b01 0%, #d53c00 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c42b01), color-stop(100%,#d53c00)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #c42b01 0%,#d53c00 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #c42b01 0%,#d53c00 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #c42b01 0%,#d53c00 100%); /* IE10+ */
+background: linear-gradient(to bottom, #c42b01 0%,#d53c00 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c42b01', endColorstr='#d53c00',GradientType=0 ); /* IE6-9 */}
+
+.login_box .cancel_btn:hover{background: #bf4e31; /* Old browsers */
+background: -moz-linear-gradient(top, #bf4e31 1%, #d34f1f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#bf4e31), color-stop(100%,#d34f1f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #bf4e31 1%,#d34f1f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #bf4e31 1%,#d34f1f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #bf4e31 1%,#d34f1f 100%); /* IE10+ */
+background: linear-gradient(to bottom, #bf4e31 1%,#d34f1f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf4e31', endColorstr='#d34f1f',GradientType=0 ); /* IE6-9 */}
+
+@media screen and (max-width: 991px){
+	.header_inner{padding:10px 2%; width:96%}
+	.main_body{padding:22px 2% 0; width:96%} 
+	.footer{padding:0 2% 15px; width:96%}
+}
+
+@media screen and (max-width: 768px){
+	.body_blocks_left, .body_blocks_right{width:100%}
+	.logo img{height:75px;}
+}
+@media screen and (max-width: 480px){
+	.logo img{height:60px;}
+}
+</style>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script language="javascript" type="text/javascript">
+
+    $(function() {
+        var loginId = $('#txtLoginId');
+        var password = $('#txtpasswd');
+
+
+        loginId.focus(function() {
+            if ($(this).val() == 'Reg. No') {
+                $(this).val('');
+            }
+        })
+        loginId.blur(function() {
+            if ($(this).val() == '') {
+                $(this).val('Reg. No');
+            }
+        })
+
+        password.focus(function() {
+            if ($(this).val() == 'pass') {
+                $(this).val('');
+            }
+        })
+        password.blur(function() {
+            if ($(this).val() == '') {
+                $(this).val('pass');
+            }
+        })
+        $('#submitform').live('click', function() {
+            var elm = $('#txtLoginId');
+            if (elm.val() == '' || elm.val() == 'Reg. No') { alert('Enter your Login Id.'); elm.focus(); return false; }
+            if (!(/^[a-z0-9A-Z]+$/.test(elm.val()))) { alert('Enter your valid Login Id.'); elm.focus(); return false; }
+
+            var elm1 = $('#txtpasswd');
+            if (elm1.val() == '' || elm1.val() == 'pass') { alert('Enter your Password'); elm1.focus(); return false; }
+            if (!(/^[a-z0-9A-Z]+$/.test(elm1.val()))) { alert('Enter your Valid Password'); elm1.focus(); return false; }
+        });
+        $('#canc').live('click', function() {
+            $('#txtLoginId').val("Reg. No");
+            $('#txtpasswd').val("pass");
+        });
+
+    });
+
+
+
+
+
+
+
+
+    function test(uid, pwd) {
+        debugger;
+        //            alert(uid+' & '+pwd);  
+        if (window.XMLHttpRequest) {
+            AJAX = new XMLHttpRequest();
+        }
+        else {
+            AJAX = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        if (AJAX) {
+            AJAX.open("GET", "Forms/loginchkform.aspx?uid=" + uid + "&pwd=" + pwd, false);
+            AJAX.send(null);
+            if (AJAX.responseText == "") {
+                //alert( 'blank');
+                window.location = "Forms/frmTestTable.aspx"
+            }
+            else {
+                alert(AJAX.responseText);
+            }
+        }
+        else {
+            alert('null');
+        }
+    }
+           </script>
+
+</head>
+
+<body>
+<div class="wrapper">
+  <div class="header">
+    <div class="header_inner">
+      <div class="logo"><a href="#"><img src="logo-hospital.jpg" alt="" width="274" height="100" border="0"></a></div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div>
+    <div class="main_body">
+      <div class="body_blocks_left fl">
+      	<div class="cont-box">
+        <h2>How to access report ?</h2>
+          <div><strong class="subheader">Login ID:  </strong>Your Reg. No  given in your Bill</div>
+          <div><strong class="subheader">Password:</strong>Your First four alphabets of your name<br />
+            <strong>Eg1:</strong> If your name as on receipt is <strong>RABINDRA</strong> then password will be <strong>RABI</strong>. <br />
+            <strong>Eg2:</strong> If  your name as on receipt is <strong>R.K. SINGH</strong> then password will be <strong>RKSI</strong>.
+            </div>
+          <div></div>
+          <div>
+            <div></div>
+            <div></div>
+          </div>
+      	</div>
+      </div>
+      <div class="body_blocks_right fl">
+      	<div class="cont-box">
+        <h2>View your report</h2>
+        	<div class="login_box">
+                       <label>Login Id &nbsp; :   </label>
+                    	<input id="txtLoginId" value="Reg. No" placeholder="Reg. No" maxlength="10" style="width: 145px;" type="text"><br>
+                        <label>Password : </label>
+                        <input id="txtpasswd" value="pass" placeholder="pass" maxlength="4" style="width: 145px;" type="password">
+                        <div class="clear"></div>
+                        <div class="btns">
+                        <input name="login" value="Login" class="login_btn" id="submitform" onclick="test(document.getElementById('txtLoginId').value,document.getElementById('txtpasswd').value);" type="submit">
+                        <input name="cancel" value="Cancel" class="cancel_btn" id="canc" type="button">
+                        </div>
+                        
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="body_blocks_left fl">
+      	<div class="cont-box"><img src="loginid.jpg" alt="" width="466" height="244" border="0" /></div>
+      </div>
+      <div class="body_blocks_right fl">
+      	<div class="cont-box">
+      	  <h2>Note</h2>
+      	  <div>
+      	    <div class="subheader">Investigation Reports are availabe to download for 30 days only.</div>
+      	    <div class="subheader">Online investigation reports are available for opd only.</div></div></div>
+      </div>
+      <div class="clear"></div>
+	</div>
+  </div>
+</div>
+<div class="clear"></div>
+<div class="footer">&copy; Copyright 2015. info@hospital.com</div>
+</body>
+</html>

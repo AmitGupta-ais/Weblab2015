@@ -1,0 +1,5 @@
+E:\DotNetProjects\WebLabProject\WebLab\WebLab\obj\Debug\ResolveAssemblyReference.cache
+E:\DotNetProjects\WebLabProject\WebLab\WebLab\bin\WebLab.dll
+E:\DotNetProjects\WebLabProject\WebLab\WebLab\bin\WebLab.pdb
+E:\DotNetProjects\WebLabProject\WebLab\WebLab\obj\Debug\WebLab.dll
+E:\DotNetProjects\WebLabProject\WebLab\WebLab\obj\Debug\WebLab.pdb

@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Welcome to Ganesh</title>
+<script language="javascript" type="text/javascript">
+function test(uid,pwd) {
+            debugger;
+//            alert(uid+' & '+pwd);  
+  if (window.XMLHttpRequest) {
+                AJAX = new XMLHttpRequest();
+            }
+            else {
+                AJAX = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            if (AJAX) {
+                AJAX.open("GET", "Forms/loginchkform.aspx?uid="+uid+"&pwd="+pwd, false);
+                AJAX.send(null);
+            if(AJAX.responseText==""){
+//alert( 'blank');
+window.location="Forms/frmTestTable.aspx"
+}
+else
+{
+                alert( AJAX.responseText);
+}
+            }
+            else {
+                alert( 'null');
+            }
+}
+           </script>
+</head>
+<body>
+<form id="a" method="post" >
+
+
+     <table>
+            <tr>
+                <td>
+                    LoginID
+                </td>
+                <td>
+                    <input id="txtLoginId" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password
+                </td>
+                <td>
+                    <input  id="txtpasswd" type="password"  />
+                    </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center">
+                    
+<input name="submit" type=Button value="Login" onClick="test(document.getElementById('txtLoginId').value,document.getElementById('txtpasswd').value);" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <a href="#">Forget Password</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: left">
+                    <strong>Login ID </strong>is your Patient ID or E-mail address<br />
+                    <strong>Password</strong> is First four alphabets of your name<br />
+                </td>
+            </tr>
+        </table>
+	<input type="hidden" name="labdbpath" value="Ganesh/labmaster.mdb" />
+
+    <br />
+    Welcome to Ganesh<br />
+    <br />
+	
+
+</form>
+</body>
+</html>

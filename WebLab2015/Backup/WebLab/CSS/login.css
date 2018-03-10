@@ -1,0 +1,50 @@
+﻿body 
+{
+	width:992px;
+}
+
+#divMain
+{
+}
+
+#divHeader
+{
+	height:30px;
+}
+
+#divLitral
+{
+}
+
+#divMenu
+{
+}
+
+#divMiddle
+{
+	width:100%;
+	min-height:50px;
+}
+
+#divMidLeft
+{
+	
+	width:0px;
+}
+
+#divMidCenter
+{
+        float:right;
+	width:50%;
+}
+
+#divMidRight
+{
+	
+	width:0px;
+}
+
+#divBottem
+{
+	height:15px;
+}

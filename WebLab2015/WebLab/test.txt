@@ -1,0 +1,5910 @@
+
+03/Jan/2018 17:43:01 ::  query 
+select * from labm where labno='LAB0517459'
+
+03/Jan/2018 17:43:01 ::  query 
+SELECT getDATE()  MYDATE
+
+03/Jan/2018 17:43:01 ::  query 
+select * from webreportlog where 1=2
+
+03/Jan/2018 17:43:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517459', N'', N'::1', '03/Jan/2018 17:43', N'ANITA SINGH-IIND')
+
+03/Jan/2018 17:44:24 ::  query 
+select * from labm where labno='LAB0518160'
+
+03/Jan/2018 17:44:26 ::  query 
+select * from labm where labno='LAB0518160'
+
+03/Jan/2018 17:44:26 ::  query 
+SELECT getDATE()  MYDATE
+
+03/Jan/2018 17:44:26 ::  query 
+select * from webreportlog where 1=2
+
+03/Jan/2018 17:44:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518160', N'', N'::1', '03/Jan/2018 17:44', N'RAJESH')
+
+03/Jan/2018 18:04:29 ::  query 
+select * from labm where labno='LAB0518160'
+
+03/Jan/2018 18:04:30 ::  query 
+select * from labm where labno='LAB0518160'
+
+03/Jan/2018 18:04:30 ::  query 
+SELECT getDATE()  MYDATE
+
+03/Jan/2018 18:04:30 ::  query 
+select * from webreportlog where 1=2
+
+03/Jan/2018 18:04:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518160', N'', N'::1', '03/Jan/2018 18:04', N'RAJESH')
+
+04/Jan/2018 13:06:11 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:06:12 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:06:12 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 13:06:12 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 13:06:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 13:06', N'ANITA SINGH-IIND')
+
+04/Jan/2018 13:49:25 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:49:27 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:49:27 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 13:49:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 13:49', N'ANITA SINGH-IIND')
+
+04/Jan/2018 13:53:02 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:53:03 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:53:03 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 13:53:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 13:53', N'ANITA SINGH-IIND')
+
+04/Jan/2018 13:53:13 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:53:13 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:53:13 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 13:53:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 13:53', N'ANITA SINGH-IIND')
+
+04/Jan/2018 13:54:18 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:54:18 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 13:54:18 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 13:54:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 13:54', N'ANITA SINGH-IIND')
+
+04-01-2018 15:21:11 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:21:11 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:21:11 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:21:11 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:21:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:21', N'ANITA SINGH-IIND')
+
+04-01-2018 15:24:26 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:24:26 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:24:26 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:24:26 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:24:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:24', N'ANITA SINGH-IIND')
+
+04-01-2018 15:26:15 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:26:15 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:26:15 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:26:15 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:26:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:26', N'ANITA SINGH-IIND')
+
+04-01-2018 15:27:12 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:12 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:12 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:27:12 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:27:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:27', N'ANITA SINGH-IIND')
+
+04-01-2018 15:27:20 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:20 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:20 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:27:20 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:27:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:27', N'ANITA SINGH-IIND')
+
+04-01-2018 15:27:33 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:33 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:33 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:27:33 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:27:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:27', N'ANITA SINGH-IIND')
+
+04-01-2018 15:27:47 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:47 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:47 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:27:47 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:27:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:27', N'ANITA SINGH-IIND')
+
+04-01-2018 15:27:55 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:55 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:27:55 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:27:55 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:27:55 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:28', N'ANITA SINGH-IIND')
+
+04-01-2018 15:29:08 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:29:08 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:29:08 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:29:08 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:29:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:29', N'ANITA SINGH-IIND')
+
+04/Jan/2018 15:30:30 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:31:33 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:31:37 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 15:31:37 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 15:31:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'::1', '04/Jan/2018 15:31', N'ANITA SINGH-IIND')
+
+04-01-2018 15:33:16 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:33:16 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:33:16 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:33:16 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:33:16 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:33', N'ANITA SINGH-IIND')
+
+04/Jan/2018 15:34:32 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:34:34 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:34:34 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 15:34:34 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 15:34:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'::1', '04/Jan/2018 15:34', N'ANITA SINGH-IIND')
+
+04-01-2018 15:34:56 ::  query 
+select * from labm where labno='LAB0517459'
+
+04-01-2018 15:34:56 ::  query 
+select * from labm where labno='LAB0517459'
+
+04-01-2018 15:34:56 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:34:56 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:34:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517459', N'', N'192.168.1.153', '04-Jan-2018 15:35', N'ANITA SINGH-IIND')
+
+04-01-2018 15:35:30 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:35:30 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:35:30 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:35:30 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:35:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:35', N'ANITA SINGH-IIND')
+
+04/Jan/2018 15:35:46 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:35:50 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:35:50 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 15:35:50 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 15:35:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'::1', '04/Jan/2018 15:36', N'ANITA SINGH-IIND')
+
+04/Jan/2018 15:38:39 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:38:42 ::  query 
+select * from labm where labno='LAB0518163'
+
+04/Jan/2018 15:38:42 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 15:38:42 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 15:38:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'::1', '04/Jan/2018 15:38', N'ANITA SINGH-IIND')
+
+04-01-2018 15:41:14 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 15:41:14 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 15:41:14 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:41:14 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:41:14 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 15:41', N'ANITA SINGH-IIND')
+
+04-01-2018 15:41:19 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:41:19 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:41:19 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:41:19 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:41:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:41', N'ANITA SINGH-IIND')
+
+04-01-2018 15:41:59 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:41:59 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:41:59 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:41:59 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:41:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:42:04 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:04 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:04 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:42:04 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:42:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:42:11 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:11 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:11 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:42:11 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:42:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:42:17 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 15:42:17 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 15:42:17 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:42:17 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:42:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:42:37 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:37 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:37 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:42:37 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:42:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:42:49 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:49 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:42:49 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:42:49 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:42:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:42', N'ANITA SINGH-IIND')
+
+04-01-2018 15:44:23 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:44:23 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 15:44:23 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 15:44:23 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 15:44:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 15:44', N'ANITA SINGH-IIND')
+
+04-01-2018 16:22:06 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 16:22:06 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 16:22:06 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 16:22:06 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 16:22:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 16:22', N'ANITA SINGH-IIND')
+
+04-01-2018 17:16:59 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:16:59 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:16:59 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:16:59 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:16:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:17', N'ANITA SINGH-IIND')
+
+04-01-2018 17:26:50 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:26:50 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:26:50 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:26:50 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:26:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 17:27', N'ANITA SINGH-IIND')
+
+04-01-2018 17:27:20 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:27:20 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:27:20 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:27:20 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:27:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:27', N'ANITA SINGH-IIND')
+
+04-01-2018 17:27:25 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:27:25 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:27:25 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:27:25 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:27:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:27', N'ANITA SINGH-IIND')
+
+04-01-2018 17:27:31 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:27:31 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:27:31 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:27:31 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:27:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 17:27', N'ANITA SINGH-IIND')
+
+04-01-2018 17:28:22 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:28:22 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:28:22 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:28:22 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:28:22 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:28', N'ANITA SINGH-IIND')
+
+04-01-2018 17:30:01 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:30:01 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:30:01 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:30:01 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:30:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:30', N'ANITA SINGH-IIND')
+
+04-01-2018 17:33:05 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:33:05 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:33:05 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:33:05 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:33:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 17:33', N'ANITA SINGH-IIND')
+
+04-01-2018 17:33:09 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:33:09 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:33:09 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:33:09 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:33:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 17:33', N'ANITA SINGH-IIND')
+
+04-01-2018 17:33:27 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:33:27 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:33:27 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:33:27 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:33:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:33', N'ANITA SINGH-IIND')
+
+04-01-2018 17:34:06 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:34:06 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:34:06 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:34:06 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:34:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 17:34', N'ANITA SINGH-IIND')
+
+04/Jan/2018 17:36:02 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 17:36:05 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 17:36:05 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 17:36:05 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 17:36:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 17:36', N'ANITA SINGH-IIND')
+
+04-01-2018 17:42:12 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:42:12 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:42:12 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:42:12 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:42:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:42', N'ANITA SINGH-IIND')
+
+04-01-2018 17:42:31 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:42:31 ::  query 
+select * from labm where labno='LAB0518154'
+
+04-01-2018 17:42:31 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:42:31 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:42:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '04-Jan-2018 17:42', N'ANITA SINGH-IIND')
+
+04-01-2018 17:42:53 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:42:53 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:42:53 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:42:53 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:42:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 17:43', N'ANITA SINGH-IIND')
+
+04-01-2018 17:43:40 ::  query 
+select * from labm where labno='LAB0517459'
+
+04-01-2018 17:43:40 ::  query 
+select * from labm where labno='LAB0517459'
+
+04-01-2018 17:43:40 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:43:40 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:43:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517459', N'', N'192.168.1.153', '04-Jan-2018 17:43', N'ANITA SINGH-IIND')
+
+04-01-2018 17:43:53 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:43:53 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 17:43:53 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:43:53 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:43:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 17:44', N'ANITA SINGH-IIND')
+
+04-01-2018 17:45:54 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:45:54 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:45:54 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:45:54 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:45:54 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 17:46', N'ANITA SINGH-IIND')
+
+04-01-2018 17:48:48 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:48:48 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:48:48 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:48:48 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:48:48 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 17:48', N'ANITA SINGH-IIND')
+
+04-01-2018 17:51:38 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:51:38 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:51:38 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:51:38 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:51:38 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 17:51', N'ANITA SINGH-IIND')
+
+04/Jan/2018 17:52:03 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 17:52:04 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 17:52:04 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 17:52:04 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 17:52:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 17:52', N'ANITA SINGH-IIND')
+
+04-01-2018 17:59:54 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:59:54 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 17:59:54 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 17:59:54 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 17:59:54 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 18:00', N'ANITA SINGH-IIND')
+
+04-01-2018 18:05:10 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:05:10 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:05:10 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 18:05:10 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 18:05:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 18:05', N'ANITA SINGH-IIND')
+
+04-01-2018 18:05:37 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 18:05:37 ::  query 
+select * from labm where labno='LAB0518163'
+
+04-01-2018 18:05:37 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 18:05:37 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 18:05:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518163', N'', N'192.168.1.153', '04-Jan-2018 18:05', N'ANITA SINGH-IIND')
+
+04-01-2018 18:06:15 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:06:15 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:06:15 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 18:06:15 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 18:06:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 18:06', N'ANITA SINGH-IIND')
+
+04-01-2018 18:06:57 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:06:57 ::  query 
+select * from labm where labno='LAB0518164'
+
+04-01-2018 18:06:57 ::  query 
+SELECT getDATE()  MYDATE
+
+04-01-2018 18:06:57 ::  query 
+select * from webreportlog where 1=2
+
+04-01-2018 18:06:57 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '04-Jan-2018 18:07', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:21:55 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:22:02 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:22:02 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:22:02 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:22:02 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:22', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:26:17 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:26:18 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:26:18 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:26:18 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:26:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:26', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:26:43 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:26:45 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:26:45 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:26:45 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:26:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:26', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:29:56 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:30:01 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:30:01 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:30:01 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:30:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:30', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:36:17 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:36:18 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:36:18 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:36:18 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:36:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:36', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:36:33 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:36:35 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:36:35 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:36:35 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:36:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:36', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:38:08 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:38:09 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:38:09 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:38:09 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:38:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:38', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:38:31 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:38:42 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:38:42 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:38:42 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:38:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:38', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:44:21 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:44:21 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:44:21 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:44:21 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:44:21 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:44', N'ANITA SINGH-IIND')
+
+04/Jan/2018 18:46:58 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:46:59 ::  query 
+select * from labm where labno='LAB0518164'
+
+04/Jan/2018 18:46:59 ::  query 
+SELECT getDATE()  MYDATE
+
+04/Jan/2018 18:46:59 ::  query 
+select * from webreportlog where 1=2
+
+04/Jan/2018 18:46:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '04/Jan/2018 18:47', N'ANITA SINGH-IIND')
+
+05/Jan/2018 11:14:59 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:15:01 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:15:01 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 11:15:01 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 11:15:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 11:15', N'ANITA SINGH-IIND')
+
+05/Jan/2018 11:16:21 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:16:25 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:16:25 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 11:16:25 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 11:16:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 11:16', N'ANITA SINGH-IIND')
+
+05/Jan/2018 11:17:50 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:17:50 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 11:17:50 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 11:17:50 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 11:17:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 11:17', N'ANITA SINGH-IIND')
+
+05/Jan/2018 14:06:10 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:06:10 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:06:10 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 14:06:10 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 14:06:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 14:06', N'ANITA SINGH-IIND')
+
+05/Jan/2018 14:07:29 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:07:29 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:07:29 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 14:07:29 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 14:07:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 14:07', N'ANITA SINGH-IIND')
+
+05/Jan/2018 14:10:56 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:10:56 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:10:56 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 14:10:56 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 14:10:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 14:11', N'ANITA SINGH-IIND')
+
+05/Jan/2018 14:12:06 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:12:06 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 14:12:06 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 14:12:06 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 14:12:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 14:12', N'ANITA SINGH-IIND')
+
+05/Jan/2018 15:09:14 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 15:09:14 ::  query 
+select * from labm where labno='LAB0518164'
+
+05/Jan/2018 15:09:14 ::  query 
+SELECT getDATE()  MYDATE
+
+05/Jan/2018 15:09:14 ::  query 
+select * from webreportlog where 1=2
+
+05/Jan/2018 15:09:14 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '05/Jan/2018 15:09', N'ANITA SINGH-IIND')
+
+05-01-2018 15:11:26 ::  query 
+select * from labm where labno='LAB0518164'
+
+05-01-2018 15:11:26 ::  query 
+select * from labm where labno='LAB0518164'
+
+05-01-2018 15:11:26 ::  query 
+SELECT getDATE()  MYDATE
+
+05-01-2018 15:11:26 ::  query 
+select * from webreportlog where 1=2
+
+05-01-2018 15:11:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '05-Jan-2018 15:11', N'ANITA SINGH-IIND')
+
+05-01-2018 15:11:57 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:11:57 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:11:57 ::  query 
+SELECT getDATE()  MYDATE
+
+05-01-2018 15:11:57 ::  query 
+select * from webreportlog where 1=2
+
+05-01-2018 15:11:57 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '05-Jan-2018 15:12', N'ANITA SINGH-IIND')
+
+05-01-2018 15:13:36 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:13:36 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:13:36 ::  query 
+SELECT getDATE()  MYDATE
+
+05-01-2018 15:13:36 ::  query 
+select * from webreportlog where 1=2
+
+05-01-2018 15:13:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '05-Jan-2018 15:13', N'ANITA SINGH-IIND')
+
+05-01-2018 15:13:41 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:13:41 ::  query 
+select * from labm where labno='LAB0518154'
+
+05-01-2018 15:13:41 ::  query 
+SELECT getDATE()  MYDATE
+
+05-01-2018 15:13:41 ::  query 
+select * from webreportlog where 1=2
+
+05-01-2018 15:13:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518154', N'', N'192.168.1.153', '05-Jan-2018 15:13', N'ANITA SINGH-IIND')
+
+05-01-2018 15:13:46 ::  query 
+select * from labm where labno='LAB0518164'
+
+05-01-2018 15:13:46 ::  query 
+select * from labm where labno='LAB0518164'
+
+05-01-2018 15:13:46 ::  query 
+SELECT getDATE()  MYDATE
+
+05-01-2018 15:13:46 ::  query 
+select * from webreportlog where 1=2
+
+05-01-2018 15:13:46 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'192.168.1.153', '05-Jan-2018 15:13', N'ANITA SINGH-IIND')
+
+10/Jan/2018 12:26:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:26:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:26:50 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:26:50 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:26:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:27', N'abdul-basit')
+
+10/Jan/2018 12:27:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:27:09 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:27:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:27', N'abdul-basit')
+
+10/Jan/2018 12:27:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:16 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:27:16 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:27:16 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:27', N'abdul-basit')
+
+10/Jan/2018 12:27:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:28 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:27:28 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:27:28 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:27', N'abdul-basit')
+
+10/Jan/2018 12:27:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:27:42 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:27:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:27:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:27:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:27:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:27:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:00 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:00 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:02 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:02 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:02 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:05 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:05 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:07 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:07 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:07 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:09 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:11 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:11 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:13 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:13 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:16 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:16 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:16 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:18 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:18 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:20 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:22 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:22 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:22 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:24 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:24 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:24 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:26 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:26 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:29 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:31 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:33 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:33 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:35 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:35 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:38 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:38 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:38 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:40 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:40 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:28', N'abdul-basit')
+
+10/Jan/2018 12:28:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:42 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:45 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:47 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:47 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:50 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:50 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:52 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:52 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:52 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:55 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:55 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:55 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:55 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:55 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:57 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:57 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:57 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:57 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:57 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:28:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:28:59 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:28:59 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:28:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:04 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:04 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:09 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:12 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:12 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:14 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:14 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:14 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:16 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:16 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:16 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:19 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:19 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:21 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:21 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:21 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:21 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:21 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:23 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:23 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:25 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:25 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:28 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:28 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:28 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:30 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:30 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:32 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:32 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:32 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:34 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:34 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:36 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:38 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:38 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:38 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:29', N'abdul-basit')
+
+10/Jan/2018 12:29:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:41 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:41 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:29:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:44 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:44 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:29:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:49 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:29:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:53 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:53 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:29:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:29:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:29:59 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:29:59 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:29:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:30:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:30:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:08 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:30:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:11 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:11 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:30', N'abdul-basit')
+
+10/Jan/2018 12:30:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:44 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:44 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:30:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:48 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:48 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:48 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:30:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:51 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:30:55 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:55 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:55 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:55 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:55 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:30:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:30:59 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:30:59 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:30:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:02 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:02 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:02 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:06 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:10 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:10 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:13 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:13 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:17 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:20 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:24 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:24 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:24 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:27 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:30 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:30 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:35 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:35 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:40 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:40 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:31', N'abdul-basit')
+
+10/Jan/2018 12:31:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:45 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:32', N'abdul-basit')
+
+10/Jan/2018 12:31:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:31:50 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:31:50 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:31:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:32', N'abdul-basit')
+
+10/Jan/2018 12:55:43 ::  query 
+select * from labm where labno='LB16139493'
+
+10/Jan/2018 12:55:43 ::  query 
+select * from labm where labno='LB16139493'
+
+10/Jan/2018 12:55:43 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:55:43 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:55:43 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139493', N'', N'::1', '10/Jan/2018 12:56', N's15s1s51s51')
+
+10/Jan/2018 12:56:01 ::  query 
+select * from labm where labno='LB16139503'
+
+10/Jan/2018 12:56:01 ::  query 
+select * from labm where labno='LB16139503'
+
+10/Jan/2018 12:56:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:56:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:56:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139503', N'', N'::1', '10/Jan/2018 12:56', N'a15a1a')
+
+10/Jan/2018 12:56:47 ::  query 
+select * from labm where labno='DL14-03010'
+
+10/Jan/2018 12:56:47 ::  query 
+select * from labm where labno='DL14-03010'
+
+10/Jan/2018 12:56:47 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:56:47 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:56:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'DL14-03010', N'', N'::1', '10/Jan/2018 12:57', N'Intesar Alam1')
+
+10/Jan/2018 12:56:52 ::  query 
+select * from labm where labno='DL14-03010'
+
+10/Jan/2018 12:56:52 ::  query 
+select * from labm where labno='DL14-03010'
+
+10/Jan/2018 12:56:52 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:56:52 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:56:52 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'DL14-03010', N'', N'::1', '10/Jan/2018 12:57', N'Intesar Alam1')
+
+10/Jan/2018 12:57:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:06 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:08 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:10 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:10 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:12 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:12 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:15 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:15 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:17 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:20 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:23 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:23 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:26 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:26 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:28 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:28 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:28 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:28 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:30 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:30 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:33 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:33 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:35 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:35 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:37 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:37 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:39 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:39 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:57', N'abdul-basit')
+
+10/Jan/2018 12:57:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:42 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:44 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:44 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:46 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:46 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:46 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:49 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:51 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:53 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:53 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:57:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:57:58 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:57:58 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:57:58 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:00 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:00 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:05 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:05 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:08 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:10 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:10 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:12 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:12 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:15 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:15 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:17 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:20 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:22 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:22 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:22 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:24 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:24 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:24 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:26 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:26 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:29 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:31 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:34 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:34 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:36 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:38 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:38 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:38 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:58', N'abdul-basit')
+
+10/Jan/2018 12:58:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:41 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:41 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:43 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:43 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:43 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:45 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:48 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:48 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:48 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:50 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:50 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:50 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:50 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:53 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:53 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:58:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:58:59 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:58:59 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:58:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:10 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:10 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:13 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:13 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:15 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:15 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:18 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:18 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:20 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:22 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:22 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:22 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:25 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:25 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:27 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:30 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:30 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:30 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:32 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:32 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:32 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:34 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:34 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:36 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:39 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:39 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 12:59', N'abdul-basit')
+
+10/Jan/2018 12:59:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:41 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:41 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:44 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:44 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:46 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:46 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:46 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:49 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:51 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:54 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:54 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:54 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:54 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:54 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 12:59:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:59 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 12:59:59 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 12:59:59 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 12:59:59 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:06 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:08 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:10 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:10 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:10 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:10 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:13 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:13 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:13 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:15 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:15 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:17 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:19 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:19 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:22 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:22 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:22 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:22 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:24 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:24 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:24 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:26 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:26 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:26 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:26 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:29 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:31 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:34 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:34 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:36 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:38 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:39 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:00', N'abdul-basit')
+
+10/Jan/2018 13:00:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:40 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:40 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:43 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:43 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:43 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:44 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:44 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:44 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:46 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:46 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:46 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:49 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:51 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:53 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:53 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:56 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:00:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:00:58 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:00:58 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:00:58 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:01 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:01 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:01 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:03 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:06 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:08 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:39 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:39 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:01', N'abdul-basit')
+
+10/Jan/2018 13:01:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10/Jan/2018 13:01:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10/Jan/2018 13:01:45 ::  query 
+select * from webreportlog where 1=2
+
+10/Jan/2018 13:01:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'::1', '10/Jan/2018 13:02', N'abdul-basit')
+
+10-01-2018 13:12:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:04 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:04 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:17 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:20 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:23 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:23 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:25 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:25 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:27 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:29 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:31 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:33 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:33 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:35 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:35 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:35 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:37 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:37 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:39 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:39 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:12', N'abdul-basit')
+
+10-01-2018 13:12:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:42 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:45 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:47 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:47 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:49 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:51 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:53 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:53 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:53 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:53 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:54 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:54 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:54 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:54 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:54 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:56 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:12:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:58 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:12:58 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:12:58 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:12:58 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:00 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:00 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:02 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:02 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:02 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:02 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:05 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:05 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:05 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:07 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:07 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:07 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:09 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:11 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:11 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:14 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:14 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:14 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:16 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:16 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:16 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:16 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:18 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:18 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:21 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:21 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:21 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:21 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:21 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:24 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:24 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:24 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:24 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:27 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:29 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:32 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:32 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:32 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:32 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:34 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:34 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:34 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:37 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:37 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:37 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:40 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:40 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:13', N'abdul-basit')
+
+10-01-2018 13:13:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:42 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:13:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:46 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:47 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:13:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:51 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:51 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:51 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:13:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:13:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:13:56 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:13:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:00 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:00 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:04 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:04 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:04 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:07 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:07 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:07 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:07 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:09 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:11 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:11 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:11 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:11 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:14 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:14 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:14 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:14 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:17 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:17 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:17 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:19 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:19 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:19 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:23 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:23 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:27 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:31 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:36 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:38 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:38 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:38 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:38 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:14', N'abdul-basit')
+
+10-01-2018 13:14:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:40 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:40 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:40 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:40 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:42 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:42 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:42 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:45 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:45 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:45 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:45 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:47 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:47 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:47 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:47 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:49 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:49 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:49 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:49 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:52 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:52 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:52 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:14:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:14:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:14:56 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:14:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:00 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:00 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:00 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:03 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:06 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:09 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:09 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:09 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:12 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:12 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:12 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:15 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:15 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:15 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:18 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:18 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:18 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:20 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:20 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:20 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:20 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:23 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:23 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:23 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:23 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:25 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:25 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:25 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:25 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:27 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:27 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:27 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:29 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:29 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:29 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:29 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:31 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:31 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:31 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:31 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:33 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:33 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:33 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:36 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:36 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:36 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:39 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:39 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:39 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:15', N'abdul-basit')
+
+10-01-2018 13:15:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:41 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:41 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:41 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:15:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:43 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:43 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:43 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:43 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:15:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:46 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:46 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:46 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:46 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:15:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:48 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:48 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:48 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:48 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:15:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:52 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:52 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:52 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:52 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:15:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:56 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:15:56 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:15:56 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:15:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:16:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:03 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:03 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:16:03 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:16:03 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:16:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:06 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:06 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:16:06 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:16:06 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+10-01-2018 13:16:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:08 ::  query 
+select * from labm where labno='LB16139507'
+
+10-01-2018 13:16:08 ::  query 
+SELECT getDATE()  MYDATE
+
+10-01-2018 13:16:08 ::  query 
+select * from webreportlog where 1=2
+
+10-01-2018 13:16:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '10-Jan-2018 13:16', N'abdul-basit')
+
+22/Jan/2018 15:54:19 ::  query 
+select * from labm where labno='LAB0518164'
+
+22/Jan/2018 15:54:19 ::  query 
+select * from labm where labno='LAB0518164'
+
+22/Jan/2018 15:54:19 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 15:54:19 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 15:54:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518164', N'', N'::1', '22/Jan/2018 15:54', N'ANITA SINGH-IIND')
+
+22/Jan/2018 16:17:09 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:17:09 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:17:09 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:17:09 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:17:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:17', N'test culture')
+
+22/Jan/2018 16:18:05 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:18:05 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:18:05 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:18:05 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:18:05 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:18', N'test culture')
+
+22/Jan/2018 16:34:56 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:34:56 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:34:56 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:34:57 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:34:57 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:35', N'test culture')
+
+22/Jan/2018 16:35:36 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:35:36 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:35:36 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:35:36 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:35:36 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:36', N'test culture')
+
+22/Jan/2018 16:38:35 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:38:35 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:38:35 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:38:35 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:38:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:39', N'test culture')
+
+22/Jan/2018 16:40:18 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:40:18 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 16:40:18 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 16:40:18 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 16:40:18 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 16:40', N'test culture')
+
+22/Jan/2018 17:40:44 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:40:44 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:40:44 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 17:40:44 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 17:40:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 17:41', N'test culture')
+
+22/Jan/2018 17:41:27 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:41:27 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:41:27 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 17:41:27 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 17:41:27 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 17:41', N'test culture')
+
+22/Jan/2018 17:44:08 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:44:08 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:44:08 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 17:44:08 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 17:44:08 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 17:44', N'test culture')
+
+22/Jan/2018 17:44:58 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:44:58 ::  query 
+select * from labm where labno='LAB0518167'
+
+22/Jan/2018 17:44:58 ::  query 
+SELECT getDATE()  MYDATE
+
+22/Jan/2018 17:44:58 ::  query 
+select * from webreportlog where 1=2
+
+22/Jan/2018 17:44:58 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '22/Jan/2018 17:45', N'test culture')
+
+22-01-2018 17:57:00 ::  query 
+select * from labm where labno='LAB0517867'
+
+22-01-2018 17:57:00 ::  query 
+select * from labm where labno='LAB0517867'
+
+22-01-2018 17:57:00 ::  query 
+SELECT getDATE()  MYDATE
+
+22-01-2018 17:57:00 ::  query 
+select * from webreportlog where 1=2
+
+22-01-2018 17:57:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517867', N'', N'192.168.1.121', '22-Jan-2018 17:57', N'INDRA KHULLAR')
+
+22-01-2018 18:13:00 ::  query 
+select * from labm where labno='LAB0517867'
+
+22-01-2018 18:13:00 ::  query 
+select * from labm where labno='LAB0517867'
+
+22-01-2018 18:13:00 ::  query 
+SELECT getDATE()  MYDATE
+
+22-01-2018 18:13:00 ::  query 
+select * from webreportlog where 1=2
+
+22-01-2018 18:13:00 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517867', N'', N'192.168.1.121', '22-Jan-2018 18:13', N'INDRA KHULLAR')
+
+23/Jan/2018 11:20:43 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:20:43 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:20:43 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:20:44 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:20:44 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('CL74000926', '', '::1', '23/Jan/2018 11:21', 'iNTESRTEST')
+
+23/Jan/2018 11:21:00 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:21:00 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:21:00 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:21:01 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:21:01 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('CL74000926', '', '::1', '23/Jan/2018 11:21', 'iNTESRTEST')
+
+23/Jan/2018 11:21:38 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:21:38 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:21:38 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:21:39 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:21:39 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('CL74000926', '', '::1', '23/Jan/2018 11:22', 'iNTESRTEST')
+
+23/Jan/2018 11:27:33 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:27:33 ::  query 
+select * from labm where labno='CL74000926'
+
+23/Jan/2018 11:27:33 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:27:34 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:27:34 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('CL74000926', '', '::1', '23/Jan/2018 11:27', 'iNTESRTEST')
+
+23/Jan/2018 11:31:28 ::  query 
+select * from labm where labno='LB7500008'
+
+23/Jan/2018 11:31:28 ::  query 
+select * from labm where labno='LB7500008'
+
+23/Jan/2018 11:31:28 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:31:28 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:31:28 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('LB7500008', '', '::1', '23/Jan/2018 11:31', 'BALKRISHNA KC ')
+
+23/Jan/2018 11:31:42 ::  query 
+select * from labm where labno='LB7500007'
+
+23/Jan/2018 11:31:42 ::  query 
+select * from labm where labno='LB7500007'
+
+23/Jan/2018 11:31:42 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:31:42 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:31:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('LB7500007', '', '::1', '23/Jan/2018 11:32', 'BUDDHA KUMARI WAIBA')
+
+23/Jan/2018 11:32:17 ::  query 
+select * from labm where labno='LB7500002'
+
+23/Jan/2018 11:32:17 ::  query 
+select * from labm where labno='LB7500002'
+
+23/Jan/2018 11:32:17 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23/Jan/2018 11:32:17 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:32:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('LB7500002', '', '::1', '23/Jan/2018 11:32', 'SHANTI BINDUKAR')
+
+23/Jan/2018 11:47:01 ::  query 
+select * from labm where labno='LAB0518167'
+
+23/Jan/2018 11:47:01 ::  query 
+select * from labm where labno='LAB0518167'
+
+23/Jan/2018 11:47:01 ::  query 
+SELECT getDATE()  MYDATE
+
+23/Jan/2018 11:47:01 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 11:47:02 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '23/Jan/2018 11:47', N'test culture')
+
+23-01-2018 11:57:32 ::  query 
+select * from labm where labno='CL74000926'
+
+23-01-2018 11:57:32 ::  query 
+select * from labm where labno='CL74000926'
+
+23-01-2018 11:57:32 ::  query 
+SELECT SYSDATE  MYDATE FROM DUAL
+
+23-01-2018 11:57:32 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 11:57:33 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values ('CL74000926', '', '192.168.1.153', '23-Jan-2018 11:57', 'iNTESRTEST')
+
+23/Jan/2018 12:12:37 ::  query 
+select * from labm where labno='LAB0518167'
+
+23/Jan/2018 12:12:37 ::  query 
+select * from labm where labno='LAB0518167'
+
+23/Jan/2018 12:12:37 ::  query 
+SELECT getDATE()  MYDATE
+
+23/Jan/2018 12:12:37 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 12:12:37 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518167', N'', N'::1', '23/Jan/2018 12:13', N'test culture')
+
+23-01-2018 17:23:11 ::  query 
+select * from labm where labno='LAB0517663'
+
+23-01-2018 17:23:11 ::  query 
+select * from labm where labno='LAB0517663'
+
+23-01-2018 17:23:11 ::  query 
+SELECT getDATE()  MYDATE
+
+23-01-2018 17:23:11 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 17:23:12 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517663', N'', N'192.168.1.121', '23-Jan-2018 17:23', N'INDRA KHULLAR')
+
+23-01-2018 17:23:55 ::  query 
+select * from labm where labno='LAB0517575'
+
+23-01-2018 17:23:55 ::  query 
+select * from labm where labno='LAB0517575'
+
+23-01-2018 17:23:55 ::  query 
+SELECT getDATE()  MYDATE
+
+23-01-2018 17:23:55 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 17:23:55 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517575', N'', N'192.168.1.121', '23-Jan-2018 17:24', N'INDRA KHULLAR')
+
+23-01-2018 17:24:04 ::  query 
+select * from labm where labno='LAB0517903'
+
+23-01-2018 17:24:04 ::  query 
+select * from labm where labno='LAB0517903'
+
+23-01-2018 17:24:04 ::  query 
+SELECT getDATE()  MYDATE
+
+23-01-2018 17:24:04 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 17:24:04 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517903', N'', N'192.168.1.121', '23-Jan-2018 17:24', N'INDRA KHULLAR')
+
+23/Jan/2018 17:53:15 ::  query 
+select * from labm where labno='LB16139522'
+
+23/Jan/2018 17:53:15 ::  query 
+select * from labm where labno='LB16139522'
+
+23/Jan/2018 17:53:15 ::  query 
+SELECT getDATE()  MYDATE
+
+23/Jan/2018 17:53:15 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 17:53:15 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139522', N'', N'::1', '23/Jan/2018 17:53', N's151s5')
+
+23/Jan/2018 17:56:30 ::  query 
+select * from labm where labno='LB16139525'
+
+23/Jan/2018 17:56:30 ::  query 
+select * from labm where labno='LB16139525'
+
+23/Jan/2018 17:56:30 ::  query 
+SELECT getDATE()  MYDATE
+
+23/Jan/2018 17:56:30 ::  query 
+select * from webreportlog where 1=2
+
+23/Jan/2018 17:56:30 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139525', N'', N'::1', '23/Jan/2018 17:57', N's151s5')
+
+23-01-2018 18:01:09 ::  query 
+select * from labm where labno='LB16139525'
+
+23-01-2018 18:01:09 ::  query 
+select * from labm where labno='LB16139525'
+
+23-01-2018 18:01:09 ::  query 
+SELECT getDATE()  MYDATE
+
+23-01-2018 18:01:09 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 18:01:09 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139525', N'', N'192.168.1.153', '23-Jan-2018 18:01', N's151s5')
+
+23-01-2018 18:01:56 ::  query 
+select * from labm where labno='LB16139525'
+
+23-01-2018 18:01:56 ::  query 
+select * from labm where labno='LB16139525'
+
+23-01-2018 18:01:56 ::  query 
+SELECT getDATE()  MYDATE
+
+23-01-2018 18:01:56 ::  query 
+select * from webreportlog where 1=2
+
+23-01-2018 18:01:56 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139525', N'', N'192.168.1.121', '23-Jan-2018 18:02', N's151s5')
+
+29-01-2018 15:02:41 ::  query 
+select * from labm where labno='LAB0517935'
+
+29-01-2018 15:02:41 ::  query 
+select * from labm where labno='LAB0517935'
+
+29-01-2018 15:02:41 ::  query 
+SELECT getDATE()  MYDATE
+
+29-01-2018 15:02:41 ::  query 
+select * from webreportlog where 1=2
+
+29-01-2018 15:02:41 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0517935', N'', N'192.168.1.153', '29-Jan-2018 15:03', N'NEEL KAMAL BHATIA')
+
+29/Jan/2018 16:21:51 ::  query 
+select * from labm where labno='LAB0518166'
+
+29/Jan/2018 16:21:51 ::  query 
+select * from labm where labno='LAB0518166'
+
+29/Jan/2018 16:21:51 ::  query 
+SELECT getDATE()  MYDATE
+
+29/Jan/2018 16:21:51 ::  query 
+select * from webreportlog where 1=2
+
+29/Jan/2018 16:21:51 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518166', N'SEROL', N'::1', '29/Jan/2018 16:22', N'RAJESH')
+
+30/Jan/2018 12:44:13 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:44:13 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:44:13 ::  query 
+SELECT getDATE()  MYDATE
+
+30/Jan/2018 12:44:13 ::  query 
+select * from webreportlog where 1=2
+
+30/Jan/2018 12:44:13 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518168', N'', N'::1', '30/Jan/2018 12:44', N'Raja')
+
+30/Jan/2018 12:54:28 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:54:28 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:54:28 ::  query 
+SELECT getDATE()  MYDATE
+
+30/Jan/2018 12:54:28 ::  query 
+select * from webreportlog where 1=2
+
+30/Jan/2018 12:54:28 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518168', N'', N'::1', '30/Jan/2018 12:55', N'Raja')
+
+30/Jan/2018 12:55:17 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:55:17 ::  query 
+select * from labm where labno='LAB0518168'
+
+30/Jan/2018 12:55:17 ::  query 
+SELECT getDATE()  MYDATE
+
+30/Jan/2018 12:55:17 ::  query 
+select * from webreportlog where 1=2
+
+30/Jan/2018 12:55:17 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LAB0518168', N'', N'::1', '30/Jan/2018 12:55', N'Raja')
+
+06-02-2018 13:29:42 ::  query 
+select * from labm where labno='LB16139507'
+
+06-02-2018 13:29:42 ::  query 
+select * from labm where labno='LB16139507'
+
+06-02-2018 13:29:42 ::  query 
+SELECT getDATE()  MYDATE
+
+06-02-2018 13:29:42 ::  query 
+select * from webreportlog where 1=2
+
+06-02-2018 13:29:42 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139507', N'', N'192.168.1.153', '06-Feb-2018 13:30', N'abdul-basit')
+
+08/Mar/2018 13:56:19 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 13:56:19 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 13:56:19 ::  query 
+SELECT getDATE()  MYDATE
+
+08/Mar/2018 13:56:19 ::  query 
+select * from webreportlog where 1=2
+
+08/Mar/2018 13:56:19 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139534', N'BIOCH', N'::1', '08/Mar/2018 13:57', N'TEST NAME')
+
+08/Mar/2018 16:20:35 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:20:35 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:20:35 ::  query 
+SELECT getDATE()  MYDATE
+
+08/Mar/2018 16:20:35 ::  query 
+select * from webreportlog where 1=2
+
+08/Mar/2018 16:20:35 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139534', N'BIOCH', N'::1', '08/Mar/2018 16:21', N'TEST NAME')
+
+08/Mar/2018 16:32:54 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:32:54 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:32:54 ::  query 
+SELECT getDATE()  MYDATE
+
+08/Mar/2018 16:32:54 ::  query 
+select * from webreportlog where 1=2
+
+08/Mar/2018 16:32:54 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139534', N'BIOCH', N'::1', '08/Mar/2018 16:33', N'TEST NAME')
+
+08/Mar/2018 16:33:32 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:33:32 ::  query 
+select * from labm where labno='LB16139534'
+
+08/Mar/2018 16:33:32 ::  query 
+SELECT getDATE()  MYDATE
+
+08/Mar/2018 16:33:32 ::  query 
+select * from webreportlog where 1=2
+
+08/Mar/2018 16:33:32 ::  query 
+Insert into webreportlog ("LABNO", "HCODE", "IP", "DOWNDATE", "PATNAME")  values (N'LB16139534', N'HAEMA', N'::1', '08/Mar/2018 16:34', N'TEST NAME')

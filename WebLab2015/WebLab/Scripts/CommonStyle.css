@@ -1,0 +1,39 @@
+﻿.grid
+{
+    font-family: Tahoma;
+    font-size: 10px;
+    color: #333333;   
+}
+
+.gridForSelectMultipleItem
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    color: #333333;
+}
+
+.lblfont
+{
+    font-size: 13px;
+    font-family: Tahoma;
+    color: #333333;
+}
+.ImgButton
+{
+    height: 18px;
+    width: 17px;
+}
+
+.FormHeader
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<ReportData xmlns="http://tempuri.org/ReportData.xsd">
+  <Report_x0020_Table>
+    <booksno>2</booksno>
+    <hcodepos>4.0SEROLOGY</hcodepos>
+    <sno>26</sno>
+    <testcode>SE051001</testcode>
+    <labno>LC-000208</labno>
+    <hcode>SEROL</hcode>
+    <hcodesno>4</hcodesno>
+    <HName>SEROLOGY</HName>
+    <tname>WIDAL TEST (TUBE  METHOD)</tname>
+    <units />
+    <NORANGE />
+    <Row1 />
+    <Row2>1 TYPHI 'O' </Row2>
+    <Row3>2  TYPHI 'H'</Row3>
+    <Row4>3 TYPHI 'AH'</Row4>
+    <Row5>4 TYPHI 'BH'</Row5>
+    <Row6>5</Row6>
+    <Row1val1>1/20</Row1val1>
+    <Row1val2>1/40</Row1val2>
+    <Row1val3>1/80</Row1val3>
+    <Row1val4>1/160</Row1val4>
+    <Row1val5>1/320</Row1val5>
+    <Row1val6>1:640</Row1val6>
+    <Row2val1>1</Row2val1>
+    <Row2val2>2</Row2val2>
+    <Row2val3>3</Row2val3>
+    <Row2val4>4</Row2val4>
+    <Row2val5>5</Row2val5>
+    <Row2val6 />
+    <Row3val1>6</Row3val1>
+    <Row3val2>7</Row3val2>
+    <Row3val3>8</Row3val3>
+    <Row3val4>9</Row3val4>
+    <Row3val5>10</Row3val5>
+    <Row3val6 />
+    <Row4val1>11</Row4val1>
+    <Row4val2>12</Row4val2>
+    <Row4val3>13</Row4val3>
+    <Row4val4>14</Row4val4>
+    <Row4val5>15</Row4val5>
+    <Row4val6 />
+    <Row5val1>16</Row5val1>
+    <Row5val2>17</Row5val2>
+    <Row5val3>18</Row5val3>
+    <Row5val4>19</Row5val4>
+    <Row5val5>20</Row5val5>
+    <Row5val6 />
+    <Row6val1 />
+    <Row6val2 />
+    <Row6val3 />
+    <Row6val4 />
+    <Row6val5 />
+    <Row6val6 />
+    <Row7val1 />
+    <Row7val2 />
+    <Row7val3 />
+    <Row7val4 />
+    <Row7val5 />
+    <Row7val6 />
+    <tval />
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM />
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>T</TYP>
+    <Bookedunder>SE051001</Bookedunder>
+    <PrevType />
+  </Report_x0020_Table>
+  <Report_Header>
+    <PatName>Mr. 15151</PatName>
+    <Age>20 Yrs/M</Age>
+    <Date>27-Mar-2015</Date>
+    <RegnNo>GE07863   </RegnNo>
+    <LabNo>LC-000208</LabNo>
+    <PatCode>P07299    </PatCode>
+    <ReferBy />
+    <Header />
+    <FooterHeight>0</FooterHeight>
+    <Footer />
+  </Report_Header>
+  <Report_Format>
+    <Abnormal_Red>0</Abnormal_Red>
+    <Abnormal_Green>0</Abnormal_Green>
+    <Abnormal_Blue>0</Abnormal_Blue>
+    <Abnormal_Bold>1</Abnormal_Bold>
+    <Abnormal_UL>1</Abnormal_UL>
+    <Detail_Font>Times New Roman</Detail_Font>
+    <Detail_Size>8</Detail_Size>
+    <Normal_Red>0</Normal_Red>
+    <Normal_Blue>0</Normal_Blue>
+    <Normal_Green>0</Normal_Green>
+    <Normal_Bold>0</Normal_Bold>
+    <TestName_Print>Test Title</TestName_Print>
+    <Headname_Font>Times New Roman</Headname_Font>
+    <Headname_Red>0</Headname_Red>
+    <Headname_Green>0</Headname_Green>
+    <Headname_Blue>0</Headname_Blue>
+    <Headname_Size>9</Headname_Size>
+    <Normal_UL>0</Normal_UL>
+    <Abnormal_Asterik>0</Abnormal_Asterik>
+    <RequireNewPageAfterHead>0</RequireNewPageAfterHead>
+  </Report_Format>
+</ReportData>

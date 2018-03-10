@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<ReportData xmlns="http://tempuri.org/ReportData.xsd">
+  <Report_x0020_Table>
+    <booksno>2</booksno>
+    <hcodepos>9.0URINE EXAMINATION TEST</hcodepos>
+    <sno>1</sno>
+    <testcode>TX000016</testcode>
+    <labno>LC-000210</labno>
+    <hcode>UE</hcode>
+    <hcodesno>9</hcodesno>
+    <HName>URINE EXAMINATION TEST</HName>
+    <tname>24 HOURS URINARY CREATININE</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>20</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TX000016</Bookedunder>
+    <PrevType />
+  </Report_x0020_Table>
+  <Report_x0020_Table>
+    <booksno>4</booksno>
+    <hcodepos>9.0URINE EXAMINATION TEST</hcodepos>
+    <sno>14</sno>
+    <testcode>TX000010</testcode>
+    <labno>LC-000210</labno>
+    <hcode>UE</hcode>
+    <hcodesno>9</hcodesno>
+    <HName>URINE EXAMINATION TEST</HName>
+    <tname>24 HOURS URINE CALCIUM</tname>
+    <units />
+    <NORANGE />
+    <LBOUND />
+    <UBOUND />
+    <tval>21</tval>
+    <comments />
+    <INTP />
+    <SIGN />
+    <EOR />
+    <Remarks />
+    <Remrep />
+    <IFCOMM>N</IFCOMM>
+    <abnormal>N</abnormal>
+    <HEADVAL>YYY</HEADVAL>
+    <TYP>N</TYP>
+    <Bookedunder>TX000010</Bookedunder>
+    <PrevType>Normal</PrevType>
+  </Report_x0020_Table>
+  <Report_Header>
+    <PatName>Mr. Aman Gupta</PatName>
+    <Age>20 Yrs/M</Age>
+    <Date>27-Mar-2015</Date>
+    <RegnNo>GE07865   </RegnNo>
+    <LabNo>LC-000210</LabNo>
+    <PatCode>P07301    </PatCode>
+    <ReferBy />
+    <Header />
+    <FooterHeight>0</FooterHeight>
+    <Footer />
+  </Report_Header>
+  <Report_Format>
+    <Abnormal_Red>0</Abnormal_Red>
+    <Abnormal_Green>0</Abnormal_Green>
+    <Abnormal_Blue>0</Abnormal_Blue>
+    <Abnormal_Bold>1</Abnormal_Bold>
+    <Abnormal_UL>1</Abnormal_UL>
+    <Detail_Font>Times New Roman</Detail_Font>
+    <Detail_Size>8</Detail_Size>
+    <Normal_Red>0</Normal_Red>
+    <Normal_Blue>0</Normal_Blue>
+    <Normal_Green>0</Normal_Green>
+    <Normal_Bold>0</Normal_Bold>
+    <TestName_Print>Test Title</TestName_Print>
+    <Headname_Font>Times New Roman</Headname_Font>
+    <Headname_Red>0</Headname_Red>
+    <Headname_Green>0</Headname_Green>
+    <Headname_Blue>0</Headname_Blue>
+    <Headname_Size>9</Headname_Size>
+    <Normal_UL>0</Normal_UL>
+    <Abnormal_Asterik>0</Abnormal_Asterik>
+    <RequireNewPageAfterHead>0</RequireNewPageAfterHead>
+  </Report_Format>
+</ReportData>

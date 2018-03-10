@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Welcome to Ganesh</title>
+<script language="javascript" type="text/javascript">
+function test(uid,pwd) {
+            debugger;
+            alert(uid+' & '+pwd);  
+           var xmlHTTP ;
+	         if (window.XMLHttpRequest) {
+	        xmlHTTP= new window.XMLHttpRequest;
+	    }
+	    else {
+	        try {
+	            xmlHTTP= new ActiveXObject("MSXML2.XMLHTTP.3.0");
+	        }
+	        catch(ex) {
+	             
+	        }
+	    }
+	xmlHTTP.open("POST", "http://localhost:39109/WebLabMaster/Logins.asmx",true);
+	xmlHTTP.setRequestHeader( "Content-Type","text/xml; charset=utf-8");
+	xmlHTTP.setRequestHeader(
+	"SOAPAction", "http://tempuri.org/HelloWorld");
+	 
+	strRequest = "<?xml version=\"1.0\" encoding=\"utf-8\"?>";
+	strRequest = strRequest + "<soap:Envelope "+
+	"xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" "+
+	"xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" "+
+	"xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">";
+//	strRequest = strRequest + "<soap:Header>";
+//	strRequest = strRequest + "<TestSoapHeader xmlns='http://tempuri.org/'>";
+//	strRequest = strRequest + "<username>pavan</username>";
+//	strRequest = strRequest + "<password>pavan@123</password>";
+//	strRequest = strRequest + "</TestSoapHeader>";
+//	strRequest = strRequest + "</soap:Header>";
+	strRequest = strRequest + " <soap:Body>";
+	strRequest =strRequest + "<HelloWorld" +
+	"xmlns='http://tempuri.org/' >  </HelloWorld >";
+	strRequest = strRequest + "</soap:Body>";
+	strRequest = strRequest + "</soap:Envelope>";
+	 
+	 
+	xmlHTTP.onreadystatechange = function () {
+	    if (xmlHTTP.readyState == 4 && xmlHTTP.status == 200) {
+	        alert(xmlHTTP.responseXML.xml);
+	    }
+	}
+	xmlHTTP.send(strRequest);
+ 
+	alert(xmlHTTP.responseXML.xml);
+	//var resp = unescape(xmlHTTP.responseXML.xml);
+
+        }
+</script>
+</head>
+<body>
+<form id="a" method="post" >
+
+
+     <table>
+            <tr>
+            </tr>
+            <tr>
+                <td>
+                    LoginID
+                </td>
+                <td>
+                    <input id="txtLoginId" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password
+                </td>
+                <td>
+                    <input id="txtpasswd" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center">
+                    <input id="btnLogin" type="Submit" value="LogIn"  />
+<INPUT NAME="submit" TYPE=Button VALUE="Click Me" onClick="test(document.getElementById('txtLoginId').value,document.getElementById('txtpasswd').value);" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <a href="#">Forget Password</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: left">
+                    <strong>Login ID </strong>is your Patient ID or E-mail address<br />
+                    <strong>Password</strong> is First four alphabets of your name<br />
+                </td>
+            </tr>
+        </table>
+	<input type="hidden" name="labdbpath" value="Ganesh/labmaster.mdb" />
+
+    <br />
+    Welcome to Ganesh<br />
+    <br />
+	
+
+</form>
+</body>
+</html>

@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[WebLab.csproj]
+SCC_Aux_Path = "\\Source\AIS\vssdata"
+SCC_Project_Name = "$/VbNetProjs/WebLab.root/WebLab/WebLab", TODEAAAA
+
+[WebLabMaster.csproj]
+SCC_Aux_Path = "\\Source\AIS\vssdata"
+SCC_Project_Name = "$/VbNetProjs/WebLab.root/WebLab/WebLab", TODEAAAA

@@ -1,0 +1,1210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E1CD870-A03B-4234-AFFA-8AEC0EE967CE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebLab</RootNamespace>
+    <AssemblyName>WebLab</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <SignAssembly>false</SignAssembly>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AISWebCommon, Version=1.1.4.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AISWebCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="AjaxControlToolkit, Version=3.0.30512.20315, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\alam\WebLab\WebLab\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v16.2.Extensions, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NRtfTree, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="RtfConverter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\RtfConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="SautinSoft.RtfToHtml, Version=6.2.2.9, Culture=neutral, PublicKeyToken=c666a5e96a3d5457, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.OracleClient, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Data.OracleClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bootstrap\bootstrap.min.css" />
+    <Content Include="Bootstrap\bootstrap.min.js" />
+    <Content Include="Bootstrap\jquery.min.js" />
+    <Content Include="Controller.aspx" />
+    <Content Include="Forms\frmAddTestHead.aspx" />
+    <Content Include="Forms\frmAisLabReportView.aspx" />
+    <Content Include="Forms\frmDeptWiseLib.aspx" />
+    <Content Include="Forms\frmDeptWiseTestLib.aspx" />
+    <Content Include="Forms\frmMenuTest.aspx" />
+    <Content Include="Forms\frmSampleCollection.aspx" />
+    <Content Include="Forms\frmConsultantLogin.aspx" />
+    <Content Include="Forms\frmConsultMenuTable.aspx" />
+    <Content Include="Forms\frmHome.aspx" />
+    <Content Include="Forms\frmApproveTest.aspx" />
+    <Content Include="Forms\frmLogin.aspx" />
+    <Content Include="Forms\frmMultiPatient.aspx" />
+    <Content Include="Forms\frmSessionEnd.aspx" />
+    <Content Include="Forms\frmSubtestList.aspx" />
+    <Content Include="Forms\frmTestDetails.aspx" />
+    <Content Include="Forms\frmTestHeadLib.aspx" />
+    <Content Include="Forms\frmTestTable.aspx" />
+    <Content Include="Forms\frmTestwiseHistoryDetail.aspx" />
+    <Content Include="Forms\frmUpdateTables.aspx" />
+    <Content Include="Forms\frmViewLabReportNew.aspx" />
+    <Content Include="Forms\loginchkform.aspx" />
+    <Content Include="Forms\Logo.bmp" />
+    <Content Include="Forms\Register.aspx" />
+    <Content Include="Forms\Test.html" />
+    <Content Include="Forms\webLabTest.asmx" />
+    <Content Include="Forms\Welcome.aspx" />
+    <Content Include="Forms\wordReport.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="jquery-ui-1.12.1.custom\AUTHORS.txt" />
+    <Content Include="jquery-ui-1.12.1.custom\external\jquery\jquery.js" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_444444_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_555555_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_777620_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_777777_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="jquery-ui-1.12.1.custom\index.html" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.css" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.js" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.min.css" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.min.js" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.structure.css" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.structure.min.css" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.theme.css" />
+    <Content Include="jquery-ui-1.12.1.custom\jquery-ui.theme.min.css" />
+    <Content Include="jquery-ui-1.12.1.custom\LICENSE.txt" />
+    <Content Include="js\angular.js" />
+    <Content Include="js\angular.min.js" />
+    <Content Include="Scripts\rtf_scriptfiles\tiny_mce.js" />
+    <Content Include="Scripts\rtf_scriptfiles\tiny_mce_popup.js" />
+    <Content Include="Scripts\rtf_scriptfiles\tiny_mce_src.js" />
+    <Content Include="simeditor\javascripts\angular-editor.js" />
+    <Content Include="simeditor\javascripts\simditor\module.js" />
+    <Content Include="simeditor\javascripts\simditor\simditor-all.js" />
+    <Content Include="simeditor\javascripts\simditor\simditor.js" />
+    <Content Include="simeditor\javascripts\simditor\uploader.js" />
+    <Content Include="simeditor\stylesheets\font-awesome.css" />
+    <Content Include="simeditor\stylesheets\simditor.css" />
+    <Content Include="Styles\chosen-sprite%402x.png" />
+    <Content Include="Styles\chosen-sprite.png" />
+    <Content Include="Styles\chosen.css" />
+    <Content Include="Styles\images\ui-icons_444444_256x240.png" />
+    <Content Include="Styles\images\ui-icons_555555_256x240.png" />
+    <Content Include="Styles\images\ui-icons_777620_256x240.png" />
+    <Content Include="Styles\images\ui-icons_777777_256x240.png" />
+    <Content Include="Styles\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="Styles\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Styles\prism.css" />
+    <Content Include="TextAngular\demo\demo.html" />
+    <Content Include="TextAngular\demo\static-demo.html" />
+    <Content Include="TextAngular\demo\textAngular.com.html" />
+    <Content Include="TextAngular\dist\textAngular-rangy.min.js" />
+    <Content Include="TextAngular\dist\textAngular-sanitize.js" />
+    <Content Include="TextAngular\dist\textAngular-sanitize.min.js" />
+    <Content Include="TextAngular\dist\textAngular.css" />
+    <Content Include="TextAngular\dist\textAngular.js" />
+    <Content Include="TextAngular\dist\textAngular.min.js" />
+    <Content Include="TextAngular\dist\textAngular.umd.js" />
+    <Content Include="TextAngular\dist\textAngularSetup.js" />
+    <Content Include="TextAngular\Gruntfile.js" />
+    <Content Include="TextAngular\karma-jqlite.conf.js" />
+    <Content Include="TextAngular\karma-jquery.conf.js" />
+    <Content Include="TextAngular\src\DOM.js" />
+    <Content Include="TextAngular\src\factories.js" />
+    <Content Include="TextAngular\src\globals.js" />
+    <Content Include="TextAngular\src\main.js" />
+    <Content Include="TextAngular\src\taBind.js" />
+    <Content Include="TextAngular\src\textAngular-sanitize.js" />
+    <Content Include="TextAngular\src\textAngular.css" />
+    <Content Include="TextAngular\src\textAngularSetup.js" />
+    <Content Include="TextAngular\src\validators.js" />
+    <Content Include="TextAngular\test\helpers.js" />
+    <Content Include="TextAngular\test\taBind\rawHtmlForTablesTest.html" />
+    <Content Include="TextAngular\test\taBind\resultForTablesTest.html" />
+    <Content Include="TextAngular\test\taBind\taBind.%24formatters.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.display.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.events.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.sanitize.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.taReadOnly.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.undoManager.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.validation.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind.wordPaste.spec.js" />
+    <Content Include="TextAngular\test\taBind\taBind._taBlankTest.spec.js" />
+    <Content Include="TextAngular\test\taBind\temp.html" />
+    <Content Include="TextAngular\test\taBrowserTag.spec.js" />
+    <Content Include="TextAngular\test\taDOM.spec.js" />
+    <Content Include="TextAngular\test\taExecCommand\taExecCommand.formatBlock.spec.js" />
+    <Content Include="TextAngular\test\taExecCommand\taExecCommand.lists.spec.js" />
+    <Content Include="TextAngular\test\taExecCommand\taExecCommand.spec.js" />
+    <Content Include="TextAngular\test\taFixChrome.spec.js" />
+    <Content Include="TextAngular\test\taMaxText.spec.js" />
+    <Content Include="TextAngular\test\taMinText.spec.js" />
+    <Content Include="TextAngular\test\taRegisterTool.spec.js" />
+    <Content Include="TextAngular\test\taSanitize.spec.js" />
+    <Content Include="TextAngular\test\taToolFunctions.spec.js" />
+    <Content Include="TextAngular\test\taTools.spec.js" />
+    <Content Include="TextAngular\test\textAngular.spec.js" />
+    <Content Include="TextAngular\test\textAngularManager.spec.js" />
+    <Content Include="TextAngular\test\textAngularSanitize\linky.spec.js" />
+    <Content Include="TextAngular\test\textAngularSanitize\ngBindHtml.spec.js" />
+    <Content Include="TextAngular\test\textAngularSanitize\sanitize.spec.js" />
+    <Content Include="TextAngular\test\textAngularToolbar.spec.js" />
+    <Content Include="UserControls\angularHTML.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AisLabReport.cs">
+      <DependentUpon>AisLabReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Change-Password.aspx.cs">
+      <DependentUpon>Change-Password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Change-Password.aspx.designer.cs">
+      <DependentUpon>Change-Password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\clsAISGraphData.cs" />
+    <Compile Include="Classes\clsdbtype.cs" />
+    <Compile Include="Classes\clsTableRowData.cs" />
+    <Compile Include="Classes\clsTestDetails.cs" />
+    <Compile Include="Classes\clsTestHead.cs" />
+    <Compile Include="Classes\CommonFunctions.cs" />
+    <Compile Include="Classes\CultClass.cs" />
+    <Compile Include="Classes\JqGrid.cs" />
+    <Compile Include="Classes\labtestvalues.cs" />
+    <Compile Include="Classes\MedClass.cs" />
+    <Compile Include="Classes\TESTCAPS.cs" />
+    <Compile Include="Controller.aspx.cs">
+      <DependentUpon>Controller.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controller.aspx.designer.cs">
+      <DependentUpon>Controller.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Culture.cs">
+      <DependentUpon>Culture.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="DataSets\dsReportMenu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportMenu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\ReportData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddTestHead.aspx.cs">
+      <DependentUpon>frmAddTestHead.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddTestHead.aspx.designer.cs">
+      <DependentUpon>frmAddTestHead.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAisLabReportView.aspx.designer.cs">
+      <DependentUpon>frmAisLabReportView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeptWiseLib.aspx.cs">
+      <DependentUpon>frmDeptWiseLib.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeptWiseLib.aspx.designer.cs">
+      <DependentUpon>frmDeptWiseLib.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeptWiseTestLib.aspx.cs">
+      <DependentUpon>frmDeptWiseTestLib.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeptWiseTestLib.aspx.designer.cs">
+      <DependentUpon>frmDeptWiseTestLib.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuTest.aspx.cs">
+      <DependentUpon>frmMenuTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuTest.aspx.designer.cs">
+      <DependentUpon>frmMenuTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSampleCollection.aspx.cs">
+      <DependentUpon>frmSampleCollection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSampleCollection.aspx.designer.cs">
+      <DependentUpon>frmSampleCollection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultantLogin.aspx.designer.cs">
+      <DependentUpon>frmConsultantLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultMenuTable.aspx.designer.cs">
+      <DependentUpon>frmConsultMenuTable.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHome.aspx.designer.cs">
+      <DependentUpon>frmHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmApproveTest.aspx.cs">
+      <DependentUpon>frmApproveTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmApproveTest.aspx.designer.cs">
+      <DependentUpon>frmApproveTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLabTests.aspx.cs">
+      <DependentUpon>frmLabTests.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLabTests.aspx.designer.cs">
+      <DependentUpon>frmLabTests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLabWiseAttachments.aspx.cs">
+      <DependentUpon>frmLabWiseAttachments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLabWiseAttachments.aspx.designer.cs">
+      <DependentUpon>frmLabWiseAttachments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMultiPatient.aspx.designer.cs">
+      <DependentUpon>frmMultiPatient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPerformTests.aspx.cs">
+      <DependentUpon>frmPerformTests.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPerformTests.aspx.designer.cs">
+      <DependentUpon>frmPerformTests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSessionEnd.aspx.designer.cs">
+      <DependentUpon>frmSessionEnd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSubtestList.aspx.cs">
+      <DependentUpon>frmSubtestList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSubtestList.aspx.designer.cs">
+      <DependentUpon>frmSubtestList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTestDetails.aspx.cs">
+      <DependentUpon>frmTestDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTestDetails.aspx.designer.cs">
+      <DependentUpon>frmTestDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTestHeadLib.aspx.cs">
+      <DependentUpon>frmTestHeadLib.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTestHeadLib.aspx.designer.cs">
+      <DependentUpon>frmTestHeadLib.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTestTable.aspx.designer.cs">
+      <DependentUpon>frmTestTable.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTestwiseHistoryDetail.aspx.designer.cs">
+      <DependentUpon>frmTestwiseHistoryDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUpdateTables.aspx.designer.cs">
+      <DependentUpon>frmUpdateTables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmViewLabReportNew.aspx.cs">
+      <DependentUpon>frmViewLabReportNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewLabReportNew.aspx.designer.cs">
+      <DependentUpon>frmViewLabReportNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\loginchkform.aspx.designer.cs">
+      <DependentUpon>loginchkform.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MasterPage.master.designer.cs">
+      <DependentUpon>MasterPage.master</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\mpLogin.master.designer.cs">
+      <DependentUpon>mpLogin.master</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\webLabTest.asmx.cs">
+      <DependentUpon>webLabTest.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Welcome.aspx.designer.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\wordReport.aspx.designer.cs">
+      <DependentUpon>wordReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCommonLogin.aspx.cs">
+      <DependentUpon>frmCommonLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCommonLogin.aspx.designer.cs">
+      <DependentUpon>frmCommonLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmComments.aspx.cs">
+      <DependentUpon>frmComments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmComments.aspx.designer.cs">
+      <DependentUpon>frmComments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportView.aspx.cs">
+      <DependentUpon>frmReportView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmReportView.aspx.designer.cs">
+      <DependentUpon>frmReportView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\Menu.Master.cs">
+      <DependentUpon>Menu.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\Menu.Master.designer.cs">
+      <DependentUpon>Menu.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\menuHead.Master.cs">
+      <DependentUpon>menuHead.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\menuHead.Master.designer.cs">
+      <DependentUpon>menuHead.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Old_App_Code\Classes\clsConsultantLogin.cs" />
+    <Compile Include="Old_App_Code\Classes\clsConsultMenu.cs" />
+    <Compile Include="Old_App_Code\Classes\clsLabMTable.cs" />
+    <Compile Include="Old_App_Code\Classes\clsLogin.cs" />
+    <Compile Include="Old_App_Code\Classes\clsReport.cs" />
+    <Compile Include="Old_App_Code\Classes\clsRepoVal.cs" />
+    <Compile Include="Old_App_Code\Classes\clsRptClass.cs" />
+    <Compile Include="Old_App_Code\Classes\clsSubHead.cs" />
+    <Compile Include="Old_App_Code\Classes\clsTableFontSetting.cs" />
+    <Compile Include="Old_App_Code\Classes\clsTableNames.cs" />
+    <Compile Include="Old_App_Code\Classes\clsTestHistoryDetail.cs" />
+    <Compile Include="Old_App_Code\Classes\clsWord.cs" />
+    <Compile Include="Old_App_Code\Classes\loadTable.cs" />
+    <Compile Include="Forms\frmAisLabReportView.aspx.cs">
+      <DependentUpon>frmAisLabReportView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultantLogin.aspx.cs">
+      <DependentUpon>frmConsultantLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultMenuTable.aspx.cs">
+      <DependentUpon>frmConsultMenuTable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHome.aspx.cs">
+      <DependentUpon>frmHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMultiPatient.aspx.cs">
+      <DependentUpon>frmMultiPatient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSessionEnd.aspx.cs">
+      <DependentUpon>frmSessionEnd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTestTable.aspx.cs">
+      <DependentUpon>frmTestTable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTestwiseHistoryDetail.aspx.cs">
+      <DependentUpon>frmTestwiseHistoryDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUpdateTables.aspx.cs">
+      <DependentUpon>frmUpdateTables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\loginchkform.aspx.cs">
+      <DependentUpon>loginchkform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\MasterPage.master.cs">
+      <DependentUpon>MasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\mpLogin.master.cs">
+      <DependentUpon>mpLogin.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\Welcome.aspx.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\wordReport.aspx.cs">
+      <DependentUpon>wordReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test11.aspx.cs">
+      <DependentUpon>test11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test11.aspx.designer.cs">
+      <DependentUpon>test11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test11.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>test11.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="test2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>test2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Scripts\ucConsultantLogin.ascx.cs">
+      <DependentUpon>ucConsultantLogin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Scripts\ucConsultantLogin.ascx.designer.cs">
+      <DependentUpon>ucConsultantLogin.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\angularHTML.ascx.cs">
+      <DependentUpon>angularHTML.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\angularHTML.ascx.designer.cs">
+      <DependentUpon>angularHTML.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucCommentHtmlBox.ascx.cs">
+      <DependentUpon>ucCommentHtmlBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucCommentHtmlBox.ascx.designer.cs">
+      <DependentUpon>ucCommentHtmlBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucConsultMenuTable.ascx.cs">
+      <DependentUpon>ucConsultMenuTable.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucConsultMenuTable.ascx.designer.cs">
+      <DependentUpon>ucConsultMenuTable.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucDate.ascx.cs">
+      <DependentUpon>ucDate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucDate.ascx.designer.cs">
+      <DependentUpon>ucDate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucHtmlBox.ascx.cs">
+      <DependentUpon>ucHtmlBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucHtmlBox.ascx.designer.cs">
+      <DependentUpon>ucHtmlBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucLogin.ascx.cs">
+      <DependentUpon>ucLogin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucLogin.ascx.designer.cs">
+      <DependentUpon>ucLogin.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucMultiplePatient.ascx.cs">
+      <DependentUpon>ucMultiplePatient.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucMultiplePatient.ascx.designer.cs">
+      <DependentUpon>ucMultiplePatient.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UcTable.ascx.cs">
+      <DependentUpon>UcTable.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcTable.ascx.designer.cs">
+      <DependentUpon>UcTable.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucTabular.ascx.cs">
+      <DependentUpon>ucTabular.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucTabular.ascx.designer.cs">
+      <DependentUpon>ucTabular.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucTestTables.ascx.cs">
+      <DependentUpon>ucTestTables.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucTestTables.ascx.designer.cs">
+      <DependentUpon>ucTestTables.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucTestwiseHistoryDetail.ascx.cs">
+      <DependentUpon>ucTestwiseHistoryDetail.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucTestwiseHistoryDetail.ascx.designer.cs">
+      <DependentUpon>ucTestwiseHistoryDetail.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CSS\bootstrap.min.css" />
+    <Content Include="CSS\font-awesome.min.css" />
+    <Content Include="CSS\login.css" />
+    <Content Include="CSS\plugins\dataTables.bootstrap.css" />
+    <Content Include="CSS\plugins\metisMenu\metisMenu.css" />
+    <Content Include="CSS\plugins\metisMenu\metisMenu.min.css" />
+    <Content Include="CSS\plugins\morris.css" />
+    <Content Include="CSS\plugins\social-buttons.css" />
+    <Content Include="CSS\plugins\timeline.css" />
+    <Content Include="CSS\sb-admin-2.css" />
+    <Content Include="dr1.htm" />
+    <Content Include="Forms\MasterPage.master" />
+    <Content Include="Forms\mpLogin.master" />
+    <Content Include="frmBlankWelcome.htm" />
+    <Content Include="frmCommonLogin.aspx" />
+    <Content Include="Images\Company.png" />
+    <Content Include="Images\pdf-ico.gif" />
+    <Content Include="Images\RTF_icon.jpg" />
+    <Content Include="Images\xls_ico.gif" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\metisMenu.js" />
+    <Content Include="js\metisMenu.min.js" />
+    <Content Include="js\sb-admin-2.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.4.2.min.js" />
+    <Content Include="Scripts\jquery.min_1.4.2.js" />
+    <Content Include="Scripts\Jquery_1_4_2_Min.js" />
+    <Content Include="test11.aspx" />
+    <Content Include="TestW.htm" />
+    <Content Include="Scripts\ucConsultantLogin.ascx" />
+    <Content Include="UserControls\ucConsultMenuTable.ascx" />
+    <Content Include="UserControls\ucDate.ascx" />
+    <Content Include="UserControls\ucLogin.ascx" />
+    <Content Include="UserControls\ucMultiplePatient.ascx" />
+    <Content Include="UserControls\ucTestTables.ascx" />
+    <Content Include="UserControls\ucTestwiseHistoryDetail.ascx" />
+    <Content Include="Welcome.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSets\dsReportMenu.xsc">
+      <DependentUpon>dsReportMenu.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\dsReportMenu.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportMenu.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\dsReportMenu.xss">
+      <DependentUpon>dsReportMenu.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\ReportData.xsc">
+      <DependentUpon>ReportData.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\ReportData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportData.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\ReportData.xss">
+      <DependentUpon>ReportData.xsd</DependentUpon>
+    </None>
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.eot" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.svg" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.ttf" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.woff" />
+    <None Include="font-awesome-4.1.0\fonts\FontAwesome.otf" />
+    <None Include="font-awesome-4.1.0\less\bordered-pulled.less" />
+    <None Include="font-awesome-4.1.0\less\core.less" />
+    <None Include="font-awesome-4.1.0\less\fixed-width.less" />
+    <None Include="font-awesome-4.1.0\less\font-awesome.less" />
+    <None Include="font-awesome-4.1.0\less\icons.less" />
+    <None Include="font-awesome-4.1.0\less\larger.less" />
+    <None Include="font-awesome-4.1.0\less\list.less" />
+    <None Include="font-awesome-4.1.0\less\mixins.less" />
+    <None Include="font-awesome-4.1.0\less\path.less" />
+    <None Include="font-awesome-4.1.0\less\rotated-flipped.less" />
+    <None Include="font-awesome-4.1.0\less\spinning.less" />
+    <None Include="font-awesome-4.1.0\less\stacked.less" />
+    <None Include="font-awesome-4.1.0\less\variables.less" />
+    <None Include="font-awesome-4.1.0\scss\font-awesome.scss" />
+    <None Include="font-awesome-4.1.0\scss\_bordered-pulled.scss" />
+    <None Include="font-awesome-4.1.0\scss\_core.scss" />
+    <None Include="font-awesome-4.1.0\scss\_fixed-width.scss" />
+    <None Include="font-awesome-4.1.0\scss\_icons.scss" />
+    <None Include="font-awesome-4.1.0\scss\_larger.scss" />
+    <None Include="font-awesome-4.1.0\scss\_list.scss" />
+    <None Include="font-awesome-4.1.0\scss\_mixins.scss" />
+    <None Include="font-awesome-4.1.0\scss\_path.scss" />
+    <None Include="font-awesome-4.1.0\scss\_rotated-flipped.scss" />
+    <None Include="font-awesome-4.1.0\scss\_spinning.scss" />
+    <None Include="font-awesome-4.1.0\scss\_stacked.scss" />
+    <None Include="font-awesome-4.1.0\scss\_variables.scss" />
+    <None Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.svg" />
+    <None Include="fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="packages.config" />
+    <Content Include="Masters\Menu.Master" />
+    <Content Include="jquery-ui-1.12.1.custom\package.json" />
+    <Content Include="simeditor\fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Masters\menuHead.Master" />
+    <None Include="Styles\fonts\fontawesome-webfont.eot" />
+    <None Include="Styles\fonts\fontawesome-webfont.ttf" />
+    <None Include="Styles\fonts\fontawesome-webfont.woff" />
+    <None Include="Styles\fonts\fontawesome-webfont.woff2" />
+    <None Include="Styles\fonts\FontAwesome.otf" />
+    <None Include="Styles\less\animated.less" />
+    <None Include="Styles\less\bordered-pulled.less" />
+    <None Include="Styles\less\core.less" />
+    <None Include="Styles\less\fixed-width.less" />
+    <None Include="Styles\less\font-awesome.less" />
+    <None Include="Styles\less\icons.less" />
+    <None Include="Styles\less\larger.less" />
+    <None Include="Styles\less\list.less" />
+    <None Include="Styles\less\mixins.less" />
+    <None Include="Styles\less\path.less" />
+    <None Include="Styles\less\rotated-flipped.less" />
+    <None Include="Styles\less\screen-reader.less" />
+    <None Include="Styles\less\stacked.less" />
+    <None Include="Styles\less\variables.less" />
+    <None Include="Styles\scss\font-awesome.scss" />
+    <None Include="Styles\scss\_animated.scss" />
+    <None Include="Styles\scss\_bordered-pulled.scss" />
+    <None Include="Styles\scss\_core.scss" />
+    <None Include="Styles\scss\_fixed-width.scss" />
+    <None Include="Styles\scss\_icons.scss" />
+    <None Include="Styles\scss\_larger.scss" />
+    <None Include="Styles\scss\_list.scss" />
+    <None Include="Styles\scss\_mixins.scss" />
+    <None Include="Styles\scss\_path.scss" />
+    <None Include="Styles\scss\_rotated-flipped.scss" />
+    <None Include="Styles\scss\_screen-reader.scss" />
+    <None Include="Styles\scss\_stacked.scss" />
+    <None Include="Styles\scss\_variables.scss" />
+    <Content Include="Change-Password.aspx" />
+    <Content Include="CSS\bootstrap.css" />
+    <Content Include="CSS\bootstrap.min337.css" />
+    <Content Include="font-awesome-4.1.0\css\font-awesome.css" />
+    <Content Include="font-awesome-4.1.0\css\font-awesome.min.css" />
+    <Content Include="font-awesome-4.1.0\download.jpg" />
+    <Content Include="Forms\frmLabTests.aspx" />
+    <Content Include="Forms\frmLabWiseAttachments.aspx" />
+    <Content Include="Forms\frmPerformTests.aspx" />
+    <Content Include="Forms\frmComments.aspx" />
+    <Content Include="frmReportView.aspx" />
+    <Content Include="Images\close.png" />
+    <Content Include="Images\closebtn.png" />
+    <Content Include="Images\loader945435.GIF" />
+    <Content Include="Images\loading.png" />
+    <Content Include="Images\lowerarrow.png" />
+    <Content Include="Images\okbutton.png" />
+    <Content Include="Images\uparrow.png" />
+    <Content Include="js\bootstrap.min337.css" />
+    <Content Include="js\bootstrap.min337.js" />
+    <Content Include="js\ContextMenu.js" />
+    <Content Include="js\jquery.fancybox.css" />
+    <Content Include="js\jquery.fancybox.js" />
+    <Content Include="js\jquery.min320.js" />
+    <Content Include="js\raphael.min.js" />
+    <Content Include="loginid.jpg" />
+    <Content Include="logo-hospital.jpg" />
+    <Content Include="myLogin.html" />
+    <Content Include="Scripts\AisKeycodesetting.js" />
+    <Content Include="Scripts\chosen.jquery.js" />
+    <Content Include="Scripts\Common.js" />
+    <Content Include="Scripts\CommonStyle.css" />
+    <Content Include="Scripts\consultant_Order.js" />
+    <Content Include="Scripts\grid.locale-en.js" />
+    <Content Include="Scripts\grid.setcolumns.js" />
+    <Content Include="Scripts\IntakeOuttake.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.11.1.js" />
+    <Content Include="Scripts\jquery-1.2.6-min.js" />
+    <Content Include="Scripts\jquery-1.2.6.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.5.min.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-1.9.0.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-latest.min.js" />
+    <Content Include="Scripts\jquery-ui-1.9.2.custom.js" />
+    <Content Include="Scripts\jquery-ui-1.9.2.custom.min.js" />
+    <Content Include="Scripts\jquery-ui.css" />
+    <Content Include="Scripts\jquery-ui.min-1.8.1.js" />
+    <Content Include="Scripts\jquery-ui.min.js" />
+    <Content Include="Scripts\jquery.autocomplete.css" />
+    <Content Include="Scripts\jquery.autocomplete.js" />
+    <Content Include="Scripts\jquery.autocomplete.min.js" />
+    <Content Include="Scripts\jquery.autocomplete.pack.js" />
+    <Content Include="Scripts\jquery.colorbox-min.js" />
+    <Content Include="Scripts\jquery.datepick.js" />
+    <Content Include="Scripts\jquery.datetimepicker.js" />
+    <Content Include="Scripts\jquery.jqGrid.min.js" />
+    <Content Include="Scripts\jquery.jqGrid.src.js" />
+    <Content Include="Scripts\jquery.ui.sortable.min.js" />
+    <Content Include="Scripts\jquery1_4_2.min.js" />
+    <Content Include="Scripts\jquery_1.8.24.js" />
+    <Content Include="Scripts\jquery_1_7.js" />
+    <Content Include="Scripts\jquery_1_7.min.js" />
+    <Content Include="Scripts\jquery_1_8_1_Min.js" />
+    <Content Include="Scripts\jquery_AutoComplete.js" />
+    <Content Include="Scripts\jsapi.js" />
+    <Content Include="Scripts\JScript1.js" />
+    <Content Include="Scripts\medicationdetails.js" />
+    <Content Include="Scripts\printThis.js" />
+    <Content Include="Scripts\prism.js" />
+    <Content Include="Scripts\rtf_scriptfiles\langs\en.js" />
+    <Content Include="Scripts\rtf_scriptfiles\license.txt" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\css\advhr.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\js\rule.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advhr\rule.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\css\advimage.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\image.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\img\sample.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\js\image.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advimage\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\css\advlink.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\js\advlink.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlink\link.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlist\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\advlist\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autolink\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autolink\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autoresize\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autoresize\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autosave\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autosave\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\autosave\langs\en.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\bbcode\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\bbcode\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\contextmenu\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\contextmenu\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\directionality\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\directionality\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\emotions.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-cool.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-cry.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-embarassed.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-foot-in-mouth.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-frown.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-innocent.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-kiss.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-laughing.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-money-mouth.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-sealed.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-smile.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-surprised.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-tongue-out.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-undecided.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-wink.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\img\smiley-yell.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\js\emotions.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\emotions\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\dialog.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\img\example.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\js\dialog.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\langs\en.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example_dependency\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\example_dependency\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\css\fullpage.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\fullpage.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\js\fullpage.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullpage\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullscreen\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullscreen\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\fullscreen\fullscreen.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\iespell\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\iespell\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\alert.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\button.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\buttons.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\confirm.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\corners.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\horizontal.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\img\vertical.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\skins\clearlooks2\window.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\inlinepopups\template.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\insertdatetime\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\insertdatetime\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\layer\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\layer\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\legacyoutput\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\legacyoutput\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\lists\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\lists\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\css\media.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\js\embed.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\js\media.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\media.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\media\moxieplayer.swf" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\nonbreaking\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\nonbreaking\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\noneditable\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\noneditable\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\pagebreak\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\pagebreak\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\js\pastetext.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\js\pasteword.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\pastetext.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\paste\pasteword.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\preview\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\preview\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\preview\example.html" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\preview\jscripts\embed.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\preview\preview.html" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\print\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\print\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\save\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\save\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\css\searchreplace.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\js\searchreplace.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\searchreplace\searchreplace.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\spellchecker\css\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\spellchecker\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\spellchecker\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\spellchecker\img\wline.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\css\props.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\js\props.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\props.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\style\readme.txt" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\tabfocus\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\tabfocus\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\cell.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\css\cell.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\css\row.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\css\table.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\js\cell.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\js\merge_cells.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\js\row.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\js\table.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\merge_cells.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\row.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\table\table.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\blank.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\css\template.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\js\template.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\template\template.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\visualblocks\css\visualblocks.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\visualblocks\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\visualblocks\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\visualchars\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\visualchars\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\wordcount\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\wordcount\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\abbr.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\acronym.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\attributes.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\cite.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\css\attributes.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\css\popup.css" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\del.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\editor_plugin.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\editor_plugin_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\ins.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\abbr.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\acronym.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\attributes.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\cite.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\del.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\element_common.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\js\ins.js" />
+    <Content Include="Scripts\rtf_scriptfiles\plugins\xhtmlxtras\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\about.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\anchor.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\charmap.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\color_picker.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\editor_template.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\editor_template_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\image.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\colorpicker.jpg" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\flash.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\icons.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\iframe.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\pagebreak.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\quicktime.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\realmedia.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\shockwave.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\trans.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\video.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\img\windowsmedia.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\about.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\anchor.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\charmap.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\color_picker.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\image.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\link.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\js\source_editor.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\langs\en.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\langs\en_dlg.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\link.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\shortcuts.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\dialog.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\buttons.png" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\items.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\menu_arrow.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\menu_check.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\progress.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\img\tabs.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\default\ui.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\highcontrast\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\highcontrast\dialog.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\highcontrast\ui.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\dialog.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\img\button_bg.png" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\img\button_bg_black.png" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\img\button_bg_silver.png" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\ui.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\ui_black.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\skins\o2k7\ui_silver.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\advanced\source_editor.htm" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\editor_template.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\editor_template_src.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\img\icons.gif" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\langs\en.js" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\skins\default\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\skins\default\ui.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\skins\o2k7\content.css" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\skins\o2k7\img\button_bg.png" />
+    <Content Include="Scripts\rtf_scriptfiles\themes\simple\skins\o2k7\ui.css" />
+    <Content Include="Scripts\rtf_scriptfiles\utils\editable_selects.js" />
+    <Content Include="Scripts\rtf_scriptfiles\utils\form_utils.js" />
+    <Content Include="Scripts\rtf_scriptfiles\utils\mctabs.js" />
+    <Content Include="Scripts\rtf_scriptfiles\utils\validate.js" />
+    <Content Include="Scripts\ScrollableGridPlugin.js" />
+    <Content Include="Scripts\shortcut.js" />
+    <Content Include="Scripts\ui.core.js" />
+    <Content Include="Scripts\ui.multiselect.js" />
+    <Content Include="Scripts\ui.notificationmsg.js" />
+    <Content Include="Styles\css\font-awesome.css" />
+    <Content Include="Styles\css\font-awesome.min.css" />
+    <Content Include="Styles\fonts\fontawesome-webfont.svg" />
+    <Content Include="Styles\jquery.fancybox.css" />
+    <Content Include="Styles\UI.1.8.11.css" />
+    <Content Include="Styles\ui.jqgrid.css" />
+    <Content Include="Styles\ui.multiselect.css" />
+    <Content Include="UserControls\ucCommentHtmlBox.ascx" />
+    <Content Include="UserControls\ucHtmlBox.ascx" />
+    <Content Include="UserControls\UcTable.ascx" />
+    <Content Include="UserControls\ucTabular.ascx" />
+    <Content Include="TextAngular\.bowerrc" />
+    <Content Include="TextAngular\.gitignore" />
+    <Content Include="TextAngular\.travis.yml" />
+    <Content Include="TextAngular\bower.json" />
+    <Content Include="TextAngular\changelog.md" />
+    <Content Include="TextAngular\CONTRIBUTING.md" />
+    <Content Include="TextAngular\package.json" />
+    <Content Include="TextAngular\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AisLabReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AisLabReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Culture.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Culture.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test11.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>test11.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>test2.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\css\" />
+    <Folder Include="Old_App_Code\DataSets\" />
+    <Folder Include="tmp\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>4755</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:4756/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

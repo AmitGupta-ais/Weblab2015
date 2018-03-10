@@ -1,0 +1,82 @@
+<%@ Master Language="C#" AutoEventWireup="true" Inherits="WebLabMaster.Forms_MasterPage" Codebehind="MasterPage.master.cs" %>
+
+<%@ Register Assembly="AISWebCommon" Namespace="AISWebCommon.AisControls" TagPrefix="AIS" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <%--<script language="javascript" type="text/javascript">
+        function clearhist()
+        {
+            //var lg=document.getElementById("lbtnLogout");
+            alert('history');
+            history.go(1);
+            alert('successful');
+        }
+        
+            
+        
+    </script>--%>
+    <%-- <script language="javascript" >
+        history.go(1); /* undo user navigation (ex: IE Back Button) */
+    </script>--%>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="vertical-align: top; text-align: left">
+        &nbsp;<table style="width: 100%">
+            <tr style="width: 100%; height: 50%">
+                <td style="width: 90%; height: 67px;">
+                    <table style="width: 100%; height: 100%">
+                        <tr style="width: 100%; height: 30%">
+                            <td style="vertical-align: top; text-align: left">
+                                <asp:Literal ID="Literal1" runat="server"></asp:Literal>
+                            </td>
+                        </tr>
+                        
+                        
+                        <tr style="width: 100%; height: 40%">
+                            <td style="vertical-align: text-top; text-align: left">
+                                <table style="width: 100%; height: 20%">
+                                    <tr style="  width: 100%; height: 100%">
+                                        <td style="width: 32%; background-color:#CBCBCB; height: 100%">
+                                            <AIS:AisLabel ID="lblName" Text="Name : " runat="server" Font-Bold="True" 
+                                                onfocusbackcolor="SkyBlue"></AIS:AisLabel>
+                                            <AIS:AisLabel ID="lblShowName" Text="Name" runat="server"></AIS:AisLabel>
+                                        </td>
+                                        <td style="width: 30%; background-color:#CBCBCB; height: 100%; vertical-align: top; text-align: left">
+                                            <AIS:AisLabel ID="lblPatNo" Text="Patient No. : " runat="server" 
+                                                Font-Bold="True" onfocusbackcolor="SkyBlue"></AIS:AisLabel>
+                                            <AIS:AisLabel ID="lblShowPatNo" Text="Patient No." runat="server"></AIS:AisLabel>
+                                        </td>
+                                        <td style="width: 20%; background-color:#CBCBCB; height: 100%">
+                                            <AIS:AisLabel ID="lblAgeSex" Text="Age/Sex : " runat="server" Font-Bold="True" 
+                                                onfocusbackcolor="SkyBlue"></AIS:AisLabel>
+                                            <AIS:AisLabel ID="lblShowAgeSex" Text="Age/Sex" runat="server"></AIS:AisLabel>
+                                        </td>
+                                        <td align="right" style="width:7%; ">
+                                            <AIS:AisLinkButton ID="lbtnLogout" runat="server" OnClick="lbtnLogout_Click" ToolTip="Version 1.0.2">Logout</AIS:AisLinkButton>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 90%; height: 116%">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <p>
+    <asp:LinkButton ID="lblVersion" runat="server"></asp:LinkButton>
+                                            <AIS:AisLabel ID="lblSecDB" runat="server" Text="Name : " Visible="False"></AIS:AisLabel>
+                                            <AIS:AisLabel ID="lblDB" runat="server" Text="Name : " Visible="False"></AIS:AisLabel>
+                                        </p>
+    </form>
+    </body>
+</html>

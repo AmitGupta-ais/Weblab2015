@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReportMenu" targetNamespace="http://tempuri.org/dsReportMenu.xsd" xmlns:mstns="http://tempuri.org/dsReportMenu.xsd" xmlns="http://tempuri.org/dsReportMenu.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReportMenu" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsReportMenu" msprop:Generator_DataSetName="dsReportMenu">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DatewiseReportMenu" msprop:Generator_UserTableName="DatewiseReportMenu" msprop:Generator_RowDeletedName="DatewiseReportMenuRowDeleted" msprop:Generator_RowChangedName="DatewiseReportMenuRowChanged" msprop:Generator_RowClassName="DatewiseReportMenuRow" msprop:Generator_RowChangingName="DatewiseReportMenuRowChanging" msprop:Generator_RowEvArgName="DatewiseReportMenuRowChangeEvent" msprop:Generator_RowEvHandlerName="DatewiseReportMenuRowChangeEventHandler" msprop:Generator_TableClassName="DatewiseReportMenuDataTable" msprop:Generator_TableVarName="tableDatewiseReportMenu" msprop:Generator_RowDeletingName="DatewiseReportMenuRowDeleting" msprop:Generator_TablePropName="DatewiseReportMenu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TestDate" msprop:Generator_UserColumnName="TestDate" msprop:Generator_ColumnVarNameInTable="columnTestDate" msprop:Generator_ColumnPropNameInRow="TestDate" msprop:Generator_ColumnPropNameInTable="TestDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LabNo" msprop:Generator_UserColumnName="LabNo" msprop:Generator_ColumnVarNameInTable="columnLabNo" msprop:Generator_ColumnPropNameInRow="LabNo" msprop:Generator_ColumnPropNameInTable="LabNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestName" msprop:Generator_UserColumnName="TestName" msprop:Generator_ColumnVarNameInTable="columnTestName" msprop:Generator_ColumnPropNameInRow="TestName" msprop:Generator_ColumnPropNameInTable="TestNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestHeadCode" msprop:Generator_UserColumnName="TestHeadCode" msprop:Generator_ColumnPropNameInRow="TestHeadCode" msprop:Generator_ColumnVarNameInTable="columnTestHeadCode" msprop:Generator_ColumnPropNameInTable="TestHeadCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsApp" msprop:Generator_UserColumnName="IsApp" msprop:Generator_ColumnVarNameInTable="columnIsApp" msprop:Generator_ColumnPropNameInRow="IsApp" msprop:Generator_ColumnPropNameInTable="IsAppColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsOPDCreditBal" msprop:Generator_UserColumnName="IsOPDCreditBal" msprop:Generator_ColumnPropNameInRow="IsOPDCreditBal" msprop:Generator_ColumnVarNameInTable="columnIsOPDCreditBal" msprop:Generator_ColumnPropNameInTable="IsOPDCreditBalColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TestwiseHistoryReportMenu" msprop:Generator_UserTableName="TestwiseHistoryReportMenu" msprop:Generator_RowDeletedName="TestwiseHistoryReportMenuRowDeleted" msprop:Generator_RowChangedName="TestwiseHistoryReportMenuRowChanged" msprop:Generator_RowClassName="TestwiseHistoryReportMenuRow" msprop:Generator_RowChangingName="TestwiseHistoryReportMenuRowChanging" msprop:Generator_RowEvArgName="TestwiseHistoryReportMenuRowChangeEvent" msprop:Generator_RowEvHandlerName="TestwiseHistoryReportMenuRowChangeEventHandler" msprop:Generator_TableClassName="TestwiseHistoryReportMenuDataTable" msprop:Generator_TableVarName="tableTestwiseHistoryReportMenu" msprop:Generator_RowDeletingName="TestwiseHistoryReportMenuRowDeleting" msprop:Generator_TablePropName="TestwiseHistoryReportMenu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TestCount" msprop:Generator_UserColumnName="TestCount" msprop:Generator_ColumnVarNameInTable="columnTestCount" msprop:Generator_ColumnPropNameInRow="TestCount" msprop:Generator_ColumnPropNameInTable="TestCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TestGroup" msprop:Generator_UserColumnName="TestGroup" msprop:Generator_ColumnVarNameInTable="columnTestGroup" msprop:Generator_ColumnPropNameInRow="TestGroup" msprop:Generator_ColumnPropNameInTable="TestGroupColumn" type="xs:string" />
+              <xs:element name="TestHeadName" msprop:Generator_UserColumnName="TestHeadName" msprop:Generator_ColumnVarNameInTable="columnTestHeadName" msprop:Generator_ColumnPropNameInRow="TestHeadName" msprop:Generator_ColumnPropNameInTable="TestHeadNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestName" msprop:Generator_UserColumnName="TestName" msprop:Generator_ColumnVarNameInTable="columnTestName" msprop:Generator_ColumnPropNameInRow="TestName" msprop:Generator_ColumnPropNameInTable="TestNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestDate" msprop:Generator_UserColumnName="TestDate" msprop:Generator_ColumnVarNameInTable="columnTestDate" msprop:Generator_ColumnPropNameInRow="TestDate" msprop:Generator_ColumnPropNameInTable="TestDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsOPDCreditBal" msprop:Generator_UserColumnName="IsOPDCreditBal" msprop:Generator_ColumnVarNameInTable="columnIsOPDCreditBal" msprop:Generator_ColumnPropNameInRow="IsOPDCreditBal" msprop:Generator_ColumnPropNameInTable="IsOPDCreditBalColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TestwiseHistoryReportMenu" />
+      <xs:field xpath="mstns:TestGroup" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

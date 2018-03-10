@@ -1,0 +1,109 @@
+﻿<?xml version="1.0"?>
+<!-- 
+    Note: As an alternative to hand editing this file you can use the 
+    web admin tool to configure settings for your application. Use
+    the Website->Asp.Net Configuration option in Visual Studio.
+    A full list of settings and comments can be found in 
+    machine.config.comments usually located in 
+    \Windows\Microsoft.Net\Framework\v2.x\Config 
+-->
+<configuration>
+  <connectionStrings>
+    <!--         WebPatientDetails cotain the databe path of Lab      -->
+    <add name="WebPatientDetails" providerName="System.Data.SqlClient" connectionString="data source=ais.acsonnet.com\sqlexpress,49937;initial catalog=HHSlab;uid=ap;password=dfcnkbd78378hn;"/>
+    <add name="Conn" providerName="System.Data.SqlClient" connectionString="data source=ais.acsonnet.com\sqlexpress,49937;initial catalog=HHSlab;uid=ap;password=dfcnkbd78378hn;"/>
+    <!--         WebLabDetails cotain the databe path of Ap Database     -->
+    <add name="WebLabDetails" providerName="System.Data.SqlClient" connectionString="data source=ais.acsonnet.com\sqlexpress,49937;initial catalog=HHS;uid=ap;password=dfcnkbd78378hn;"/>
+    <!--<add name="WebPatientDetails" providerName="System.Data.SqlClient" connectionString="data source=source;initial catalog=labbhandari;uid=ap; "/>
+    <add name="WebLabDetails" providerName="System.Data.SqlClient" connectionString="data source=source;initial catalog=apbhandarinew;uid=ap; "/>-->
+    <!--<add name="WebPatientDetails" providerName="System.Data.OleDbClient" connectionString="data source=source;initial catalog=labmaster;uid=ap;"/>
+    <add name="WebLabDetails" providerName="System.Data.OleDbClient" connectionString="data source=source;initial catalog=labmaster;uid=ap;"/>-->
+    <!--<add name="WebPatientDetails" providerName="System.Data.OracleClient" connectionString="data source=amitlaptop;uid=aplab;password=dfcnkbd78378hn;"/>
+    <add name="WebLabDetails" providerName="System.Data.OracleClient" connectionString="data source=amitlaptop;uid=ap;password=dfcnkbd78378hn;"/>-->
+  </connectionStrings>
+  <!--
+    For a description of web.config changes see http://go.microsoft.com/fwlink/?LinkId=235367.
+
+    The following attributes can be set on the <httpRuntime> tag.
+      <system.Web>
+        <httpRuntime targetFramework="4.5" />
+      </system.Web>
+  -->
+  <system.web.extensions>
+    <scripting>
+      <webServices>
+        <jsonSerialization maxJsonLength="500000">
+        </jsonSerialization>
+      </webServices>
+    </scripting>
+  </system.web.extensions>
+  <system.web>
+    
+    <!-- 
+            Set compilation debug="true" to insert debugging 
+            symbols into the compiled page. Because this 
+            affects performance, set this value to true only 
+            during development.
+        -->
+    <compilation debug="true" targetFramework="4.5">
+      <assemblies>
+        <add assembly="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+        <add assembly="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+        <add assembly="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+        <!--<add assembly="System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>-->
+        <!--<add assembly="System.Data.OracleClient, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>-->
+        <add assembly="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+        <add assembly="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+        <add assembly="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+        <add assembly="Microsoft.VisualBasic.Compatibility, Version=10.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+      </assemblies>
+    </compilation>
+    <!--
+            The <authentication> section enables configuration 
+            of the security authentication mode used by 
+            ASP.NET to identify an incoming user. 
+        -->
+    <!--<authentication mode="Windows"/>-->
+    <!--
+            The <customErrors> section enables configuration 
+            of what to do if/when an unhandled error occurs 
+      
+            during the execution of a request. Specifically, 
+            it enables developers to configure html error pages 
+            to be displayed in place of a error stack trace.
+ -->
+    <customErrors mode="Off"/>
+    <httpHandlers>
+      <add verb="GET" path="CrystalImageHandler.aspx" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+      <add verb="GET" path="CrystalImageHandler.aspx" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+    </httpHandlers>
+    <pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID"/>
+    <httpRuntime requestValidationMode="2.0" />
+  </system.web>
+
+  <system.webServer>
+    <validation validateIntegratedModeConfiguration="false"/>
+    <handlers>
+      <add name="CrystalImageHandler.aspx_GET" verb="GET" path="CrystalImageHandler.aspx" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" preCondition="integratedMode"/>
+    </handlers>
+  </system.webServer>
+  <location allowOverride="true" inheritInChildApplications="true">
+    <appSettings>
+      <add key="CrystalImageCleaner-AutoStart" value="true"/>
+      <add key="CrystalImageCleaner-Sleep" value="60000"/>
+      <add key="CrystalImageCleaner-Age" value="120000"/>
+    </appSettings>
+  </location>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="DevExpress.Data.v14.1" publicKeyToken="b88d1754d700e49a" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-14.1.6.0" newVersion="14.1.6.0"/>
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="DevExpress.Printing.v14.1.Core" publicKeyToken="b88d1754d700e49a" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-14.1.5.0" newVersion="14.1.5.0"/>
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
